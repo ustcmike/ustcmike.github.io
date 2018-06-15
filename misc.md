@@ -6,15 +6,15 @@ title: "Hang Wang: MISC"
 
 ## Language I have been using
   * Computer Language
-    - [C](https://www.openstack.org/)
-    - [C++](https://aws.amazon.com/)
-    - [Python](http://www.xenproject.org/)
-    - [R](http://www.linux-kvm.org/page/Main_Page)
-    - [HTML](http://openvswitch.org/)
-    - [Matlab](http://openvswitch.org/)
-    - [SQL](http://openvswitch.org/)
-    - [Latex](http://openvswitch.org/)
-    - [Verilog](http://openvswitch.org/)
+    - C
+    - C++
+    - Python
+    - R
+    - HTML
+    - Matlab
+    - SQL
+    - Latex
+    - Verilog
   * Human Language
     - Chinese, Native Speaker
     - English, Fluent Speaker
