@@ -3,7 +3,7 @@ layout: default
 section: chinese
 title: "Hang Wang: Homepage"
 ---
-<img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+<img src="static/info/profile2.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
 # Hang (Mike) Wang
 {% include social.html %}
