@@ -35,8 +35,8 @@ title: "Hang Wang: MISC"
     - [CVPR](http://cvpr2018.thecvf.com/)
     - [AAAI](https://aaai.org/Conferences/AAAI-18/)
 
+---
 
-{% comment %}
 ## Useful Links
   * Dream Corporation Researches
     - [Jiawei Han](http://hanj.cs.illinois.edu/)
@@ -48,4 +48,4 @@ title: "Hang Wang: MISC"
     - [Data Mining Group, Tsinghua](http://dbgroup.cs.tsinghua.edu.cn/dmg.html) 
     - [KDD oral presentations video](http://www.videolectures.net)
     - [A google co-op search engine for Data Mining](http://www.google.com/coop/cse?cx=006422944775554126616:ixcd3tdxkke)
-{% endcomment %}
+
