@@ -66,6 +66,9 @@
             <li {% if page.section == 'home'%} class="active" {% endif %} >
               <a href="index.html">Home</a>
             </li>
+             <li {% if page.section == 'chinese'%} class="active" {% endif %} >
+              <a href="index.html">中文版</a>
+            </li>
             <li {% if page.section == 'misc'%} class="active" {% endif %} >
               <a href="misc.html">Misc</a>
             </li>
