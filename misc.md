@@ -38,7 +38,7 @@ title: "Hang Wang: MISC"
 ---
 
 ## Useful Links
-  * Dream Corporation Researches
+  * Dream Corporation Researchers
     - [Jiawei Han](http://hanj.cs.illinois.edu/)
     - [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/)
     - [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/)
