@@ -1,18 +1,18 @@
 ﻿---
 layout: default
 section: chinese
-title: "Hang Wong: Homepage"
+title: "Hang Wang: Homepage"
 ---
 <img src="static/info/profile2.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
-# Hang (Mike) Wong
+# Hang (Mike) Wang
 {% include social.html %}
 
 &nbsp;
 
 欢迎来到我的个人主页! 
 
-我的名字叫王航, 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)）. 我是信息科技英才班的成员. 同时我也是中国科学技术大学健康信息学实验室成员（ [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) ），我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
+我的名字叫王航(拼音：Wang Hang), 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)）. 我是信息科技英才班的成员. 同时我也是中国科学技术大学健康信息学实验室成员（ [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) ），我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
 
 我的研究兴趣是数据挖掘以及其在医疗、社交媒体、金融分析等领域的应用.我同样对机器学习和人工智能有强烈的兴趣.
 
