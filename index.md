@@ -1,18 +1,18 @@
 ﻿---
 layout: default
 section: home
-title: "Hang Wang: Homepage"
+title: "Hang WONG: Homepage"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
-# Hang (Mike) Wang
+# Hang (Mike) WONG
 {% include social.html %}
 
 &nbsp;
 
 Welcome to my homepage! 
 
-My name is Hang(航) Wang(王), a final-year bachelor student in the Department of Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/). I'm the member of The Talent Program in Information Science and Technology, USTC. I'm also the member of the [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) and my advisor is [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html).
+My name is Hang(航) WONG(or WANG, 王), a final-year bachelor student in the Department of Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/). I'm the member of The Talent Program in Information Science and Technology, USTC. I'm also the member of the [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) and my advisor is [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html).
 
 My research interests include data mining and its wide application on biomedical information, social media, financial analysis and so on. Also I'm interested in Machine Learning and Artificial Intelligence.
 
