@@ -19,7 +19,7 @@ My research interests include data mining and its wide application on biomedical
 &nbsp;
 
 ## What's New
-  * July-2018:  I'm going to The Ohio State University for five-month Internship under the supervision of [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/)!
+  * July-2018:  I'm going to The Ohio State University for a five-month Internship under the supervision of [Prof. Huan Sun](http://web.cse.ohio-state.edu/~sun.397/)!
   *  July-2018:  I'm going to graduate from [USTC](http://www.ustc.edu.cn/) with the Outstanding Graduate Honor and Talented Program Graduate Honor.
   * May-2018:  I won the Excellent Graduation Thesis Award (TOP 5% in USTC)!
   * July-2017:  I'm going to Netherlands for Summer Internship in [University of Twente](https://www.utwente.nl/en/) under the supervision of [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)!
