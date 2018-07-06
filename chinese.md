@@ -19,7 +19,7 @@ title: "Hang Wang: Homepage"
 &nbsp;
 
 ## 新消息
-  * 7月-2018:  我将前往俄亥俄州立大学参加实习，我的指导老师是 [孙欢教授](http://web.cse.ohio-state.edu/~sun.397/)，谢谢您!
+  * 7月-2018:  我将前往[商汤科技](https://www.sensetime.com)展开为期3个月的暑期实习!
   *  7月-2018:  我将从 [USTC](http://www.ustc.edu.cn/) 本科毕业，同时我获得了中国科大优秀毕业生、英才班荣誉证书等荣誉.
   * 5月-2018:  我获得了中科大优秀毕业论文奖 (排名前 5%)!
   * 7月-2017:  我将前往荷兰 [University of Twente](https://www.utwente.nl/en/) 在 [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)的指导下展开为期三个月的暑期研究，感谢CSC的赞助!
