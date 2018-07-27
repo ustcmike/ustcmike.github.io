@@ -28,7 +28,6 @@ title: "Hang Wang: Homepage"
 
 ## 出版物
   * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Under Review, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), November 2017.	
-；  * **[One Inertial Sensor Based Upper Extremity Usage Measurement and Standard](static/papers/17-tnsre.pdf)**.  *__Hang Wang__, Mohamed Irfan Mohamed Refai, B. J. F. van Beijnnum.* Under Review, IEEE Transaction on Neural Systems and Rehabilitation Engineering(TNSRE), June 2018. 
   * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
 
 
