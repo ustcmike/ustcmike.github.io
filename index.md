@@ -29,7 +29,7 @@ My research interests include data mining and its wide application on biomedical
 ## Publications
   * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Under Review, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), November 2017.	
   * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
-  * **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](static/papers/18-TNSRE.pdf)**,*__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum*, Oral Presentation by Irfan, 7th Dutch Bio-Medical Engineering(BME)  Conference, Egmond aan Zee, Netherland
+  * **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](static/papers/17-tnsre.pdf)**,*__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum*, Oral Presentation by Irfan, 7th Dutch Bio-Medical Engineering(BME)  Conference, Egmond aan Zee, Netherland
 
 
 ## Research Experience
