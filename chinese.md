@@ -20,15 +20,16 @@ title: "Hang Wang: Homepage"
 
 ## 新消息
   * 7月-2018:  我将前往[商汤科技](https://www.sensetime.com)展开为期3个月的暑期实习!
-  *  7月-2018:  我将从 [USTC](http://www.ustc.edu.cn/) 本科毕业，同时我获得了中国科大优秀毕业生、英才班荣誉证书等荣誉.
-  * 5月-2018:  我获得了中科大优秀毕业论文奖 (排名前 5%)!
+  * 7月-2018:  我将从 [USTC](http://www.ustc.edu.cn/) 本科毕业，同时我从英才班荣誉毕业并获评中国科大2018届优秀毕业生.
+  * 5月-2018:  我获得了中科大优秀毕业论文奖 (评选比例 5%)!
   * 7月-2017:  我将前往荷兰 [University of Twente](https://www.utwente.nl/en/) 在 [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)的指导下展开为期三个月的暑期研究，感谢CSC的赞助!
 
 &nbsp;
 
 ## 出版物
   * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Under Review, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), November 2017.	
-  * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
+  * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **<font color=red>(Excellent Graduation Thesis Award, TOP 5%)</font>**
+   * **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](static/papers/17-tnsre.pdf)**,*__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum*, Oral Presentation by Irfan, 7th Dutch Bio-Medical Engineering(BME)  Conference, Egmond aan Zee, Netherland
 
 
 ## 研究经历
