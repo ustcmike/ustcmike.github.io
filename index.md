@@ -14,7 +14,7 @@ Welcome to my homepage!
 
 My name is Hang(航) WONG(or WANG, 王), a final-year bachelor student in the Department of Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/). I'm the member of The Talent Program in Information Science and Technology, USTC. I'm also the member of the [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) and my advisor is [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html).
 
-My research interests include data mining and its wide application on biomedical information, social media, financial analysis and so on. Also I'm interested in Machine Learning and Artificial Intelligence.
+My research interests include data mining and its wide application on biomedical information, social media, financial analysis and related fields. Also I'm thrilled about Machine Learning and Artificial Intelligence.
 
 &nbsp;
 
@@ -29,6 +29,7 @@ My research interests include data mining and its wide application on biomedical
 ## Publications
   * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Under Review, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), November 2017.	
   * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
+  * **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](static/papers/18-TNSRE.pdf)**,*__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum*, Oral Presentation by Irfan, 7th Dutch Bio-Medical Engineering(BME)  Conference, Egmond aan Zee, Netherland
 
 
 ## Research Experience
