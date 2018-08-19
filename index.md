@@ -20,7 +20,7 @@ My research interests include data mining and its wide application on biomedical
 
 ## What's New
   *  Aug-2018:   My paper "Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity" is accepted by IEEE/ACM TCBB! Thanks to Prof.Li Ao, Prof.Wang Minghui and Dr. Xi Jianing!
-  *  July-2018:  I'm going to [Sensetime](https://www.sensetime.com) in Shenzhen for a three-month internship!
+  *  July-2018:  I'm going to [Sensetime](https://www.sensetime.com) in Shenzhen for a three-month internship, under the supervision of Dr. Sun Peng!
   *  July-2018:  I'm going to graduate from [USTC](http://www.ustc.edu.cn/) with the Outstanding Graduate Honor and Talented Program Graduate Honor.
   * May-2018:  I won the Excellent Graduation Thesis Award **(TOP 5% in USTC)**!
   * July-2017:  I'm going to Netherlands for Summer Internship in [University of Twente](https://www.utwente.nl/en/) under the supervision of [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)!
