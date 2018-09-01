@@ -17,6 +17,8 @@ My name is Hang(航) WONG(or WANG, 王), I received my B.E. from Automation, Sch
 My research interests include data mining and its wide application on biomedical information, social media, financial analysis and related fields. Also I'm thrilled about Machine Learning and Artificial Intelligence.
 
 &nbsp;
+## Education
+  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018
 
 ## What's New
   *  Aug-2018:   My paper "Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity" is accepted by IEEE/ACM TCBB! Thanks to Prof.Li Ao, Prof.Wang Minghui and Dr. Xi Jianing!
