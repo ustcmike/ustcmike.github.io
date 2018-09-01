@@ -12,11 +12,14 @@ title: "Hang Wang: Homepage"
 
 欢迎来到我的个人主页! 
 
-我的名字叫王航(拼音：Wang Hang), 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)）. 我是信息科技英才班的成员. 同时我也是中国科学技术大学健康信息学实验室成员（ [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) ），我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
+王航(拼音：Wang Hang), 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)）. 我是信息科技英才班的成员. 同时我也是中国科学技术大学健康信息学实验室成员（ [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) ），我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
 
 我的研究兴趣是数据挖掘以及其在医疗、社交媒体、金融分析等领域的应用.我同样对机器学习和人工智能有强烈的兴趣.
 
 &nbsp;
+
+## 教育经历
+  *  工学学士学位，自动化专业(信息科技英才班), 中国科学技术大学, 2014~2018
 
 ## 新消息
   * 8月-2018:  我的论文Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity被IEEE/ACM TCBB接收！感谢我的合作者李骜教授，王明会教授，习佳宁博士！
@@ -62,4 +65,4 @@ title: "Hang Wang: Homepage"
  * 中科大校友返校优秀志愿者, 2016
  * 2013版飞跃手册编辑, 2015
  * 中国科学技术大学信息学院三班生活委员, 2014–2018
- * 中国业余小提琴手
+ * 中国业余小提琴手，8级
