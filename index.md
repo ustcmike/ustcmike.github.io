@@ -12,24 +12,28 @@ title: "Hang WONG: Homepage"
 
 Welcome to my homepage! 
 
-My name is Hang(航) WONG(or WANG, 王), a final-year bachelor student in the Department of Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/). I'm the member of The Talent Program in Information Science and Technology, USTC. I'm also the member of the [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) and my advisor is [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html).
+My name is Hang(航) WONG(or WANG, 王), I received my B.E. from Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC). I was the member of The Talent Program in Information Science and Technology, USTC. I was also the member of the [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) and my advisor is [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html).
 
-My research interests include data mining and its wide application on biomedical information, social media, financial analysis and so on. Also I'm interested in Machine Learning and Artificial Intelligence.
+My research interests include data mining and its wide application on biomedical information, social media, financial analysis and related fields. Also I'm thrilled about Machine Learning and Artificial Intelligence.
 
 &nbsp;
+## Education
+  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018
 
 ## What's New
-  *  July-2018:  I'm going to [Sensetime](https://www.sensetime.com) in Shenzhen for a three-month internship!
+  *  Sep-2018: I'm leaving for Nanyang Technological University(NTU) as Research Engineer in SCSE, under the supervision of [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/). Thank you for the opportunity, Prof. Wen.
+  *  Aug-2018:   My paper "Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity" is accepted by IEEE/ACM TCBB! Thanks to Prof.Li Ao, Prof.Wang Minghui and Dr. Xi Jianing!
+  *  July-2018:  I'm going to [Sensetime](https://www.sensetime.com) in Shenzhen for a three-month internship, under the supervision of [Dr. Sun Peng](https://www.linkedin.com/in/sunpengsdu/)!
   *  July-2018:  I'm going to graduate from [USTC](http://www.ustc.edu.cn/) with the Outstanding Graduate Honor and Talented Program Graduate Honor.
-  * May-2018:  I won the Excellent Graduation Thesis Award (TOP 5% in USTC)!
+  * May-2018:  I won the Excellent Graduation Thesis Award **(TOP 5% in USTC)**!
   * July-2017:  I'm going to Netherlands for Summer Internship in [University of Twente](https://www.utwente.nl/en/) under the supervision of [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)!
 
 &nbsp;
 
-## Publications
-  * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Under Review, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), November 2017.	
-  * **[One Inertial Sensor Based Upper Extremity Usage Measurement and Standard](static/papers/17-tnsre.pdf)**.  *__Hang Wang__, Mohamed Irfan Mohamed Refai, B. J. F. van Beijnnum.* Under Review, IEEE Transaction on Neural Systems and Rehabilitation Engineering(TNSRE), June 2018. 
+## Publications (Undergraduate, USTC)
+  * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Accepted, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 10.1109/TCBB.2018.2864739.	
   * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
+  * **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](static/papers/17-tnsre.pdf)**,*__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum*, Accepted as Oral Presentation (by Irfan), 7th Dutch Bio-Medical Engineering(BME)  Conference, Egmond aan Zee, Netherland
 
 
 ## Research Experience
@@ -49,20 +53,17 @@ My research interests include data mining and its wide application on biomedical
 
 
 ## Awards and Honors
- * Hornable Degree in School of Information Science and Technology Talented program, 2017
+ * Hornable Degree in School of Information Science and Technology Talented program, Top 5%, 2017
  * The Silver Prize Scholarship Top 10%, 2017
  * University-level excellent League leader Top 5%, 2016
- * University-level excellent League member Top 5%, 2015
- * Excellent leader of the Student Union Outstanding leadership, 2015
  * Shanghai Institute of Microsystem and Information Technology Scholarship Top 5%, 2015
  * Chen Guilin leadership scholarship Outstanding leadership, 2015
  * Scholarship for Outstanding Fresher 2014
 
 
 ## Extracurriculum Events
- * Comprehensive Affair Office of the USTC Student Union Director, 2016–2017
- * USTC Alumni Forum Outstanding volunteer, 2016
- * Go Abroad from USTC Handbook Editor, 2015
+ * Director, Comprehensive Affair Office of the USTC Student Union, 2016–2017
+ * Volunteer, USTC Alumni Forum Outstanding, 2016
+ * Editor, Go Abroad from USTC Handbook, 2015
  * General affairs in class 3 Commissary, 2014–present
- * Interest group on Quantum Communication Group leader, 2014–2015
  * Chinese amateur violin certificate, level 8 Amateur

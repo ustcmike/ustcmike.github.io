@@ -12,24 +12,28 @@ title: "Hang Wang: Homepage"
 
 欢迎来到我的个人主页! 
 
-我的名字叫王航(拼音：Wang Hang), 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)）. 我是信息科技英才班的成员. 同时我也是中国科学技术大学健康信息学实验室成员（ [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) ），我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
+王航(拼音：Wang Hang), 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)）. 我是信息科技英才班的成员. 同时我也是中国科学技术大学健康信息学实验室成员（ [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) ），我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
 
 我的研究兴趣是数据挖掘以及其在医疗、社交媒体、金融分析等领域的应用.我同样对机器学习和人工智能有强烈的兴趣.
 
 &nbsp;
 
+## 教育经历
+  *  工学学士学位，自动化专业(信息科技英才班), 中国科学技术大学, 2014~2018
+
 ## 新消息
-  * 7月-2018:  我将前往[商汤科技](https://www.sensetime.com)展开为期3个月的暑期实习!
-  *  7月-2018:  我将从 [USTC](http://www.ustc.edu.cn/) 本科毕业，同时我获得了中国科大优秀毕业生、英才班荣誉证书等荣誉.
-  * 5月-2018:  我获得了中科大优秀毕业论文奖 (排名前 5%)!
+  * 8月-2018:  我的论文Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity被IEEE/ACM TCBB接收！感谢我的合作者李骜教授，王明会教授，习佳宁博士！
+  * 7月-2018:  我将前往[商汤科技](https://www.sensetime.com), 以及[孙鹏博士](https://www.linkedin.com/in/sunpengsdu/)的指导下展开为期3个月的暑期实习!
+  * 7月-2018:  我将从 [USTC](http://www.ustc.edu.cn/) 本科毕业，同时我从英才班荣誉毕业并获评中国科大2018届优秀毕业生.
+  * 5月-2018:  我获得了中科大优秀毕业论文奖 (评选比例 5%)!
   * 7月-2017:  我将前往荷兰 [University of Twente](https://www.utwente.nl/en/) 在 [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)的指导下展开为期三个月的暑期研究，感谢CSC的赞助!
 
 &nbsp;
 
-## 出版物
-  * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Under Review, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), November 2017.	
-  * **[One Inertial Sensor Based Upper Extremity Usage Measurement and Standard](static/papers/17-tnsre.pdf)**.  *__Hang Wang__, Mohamed Irfan Mohamed Refai, B. J. F. van Beijnnum.* Under Review, IEEE Transaction on Neural Systems and Rehabilitation Engineering(TNSRE), June 2018. 
+## 出版物 (中国科大，本科期间)
+  * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Accepted, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 10.1109/TCBB.2018.2864739.	
   * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
+   * **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](static/papers/17-tnsre.pdf)**,*__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum*, Accepted as Oral Presentation (by Irfan), 7th Dutch Bio-Medical Engineering(BME)  Conference, Egmond aan Zee, Netherland
 
 
 ## 研究经历
@@ -61,4 +65,4 @@ title: "Hang Wang: Homepage"
  * 中科大校友返校优秀志愿者, 2016
  * 2013版飞跃手册编辑, 2015
  * 中国科学技术大学信息学院三班生活委员, 2014–2018
- * 中国业余小提琴手
+ * 中国业余小提琴手，8级
