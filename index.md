@@ -3,7 +3,7 @@ layout: default
 section: home
 title: "Hang WONG: Homepage"
 ---
-<img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+<img src="static/info/motion1.swf" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
 # Hang (Mike) WONG
 {% include social.html %}
