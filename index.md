@@ -10,7 +10,7 @@ width="320" height="400" >
 <param name="quality" value="high"> 
 <param name="play" value="true"> 
 <param name="LOOP" value="false"> 
-<embed src="static/info/motion1.swf" width="190px" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" 
+<embed src="static/info/motion1.swf" width="180px" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" 
 type="application/x-shockwave-flash">
 </embed> 
 </object> 
