@@ -3,7 +3,11 @@ layout: default
 section: home
 title: "Hang WONG: Homepage"
 ---
+<object type="application/x-shockwave-flash" data="c.swf?path=movie.swf"
+width="400" height="300">
+<param name="movie" value="c.swf?path=movie.swf" />
 <img src="static/info/motion1.swf" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+</object>
 
 # Hang (Mike) WONG
 {% include social.html %}
