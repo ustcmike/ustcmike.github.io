@@ -3,15 +3,15 @@ layout: default
 section: home
 title: "Hang WONG: Homepage"
 
+---
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
 codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,16,0" width="180px">
-<param name="movie" value="motion1.swf"> 
+<param name="movie" value="static/info/motion1.swf"> 
 <param name="quality" value="high"> 
 <param name="play" value="true"> 
 <param name="LOOP" value="true"> 
 <embed src="static/info/motion1.swf" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> </embed> 
 </object> 
----
 
 # Hang (Mike) WONG
 {% include social.html %}
