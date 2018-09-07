@@ -19,17 +19,26 @@ title: "Hang Wang: Homepage"
 &nbsp;
 
 ## 教育经历
-  *  工学学士学位，自动化专业(信息科技英才班), 中国科学技术大学, 2014~2018
+  *  工学学士学位，自动化专业, 信息科技英才班, 中国科学技术大学, 2014~2018([中国科大六十周年校庆，2018](http://xq.ustc.edu.cn))
 
 ## 新消息
+  * 20日-9月-2018: __红专并进一甲子，科教报国六十年，祝贺母校中国科大六十华诞！__
+  * 9月-2018： 我将前往新加坡南洋理工大学（NTU），在[Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/)的指导下完成科研工作，感谢您！
   * 8月-2018:  我的论文Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity被IEEE/ACM TCBB接收！感谢我的合作者李骜教授，王明会教授，习佳宁博士！
   * 7月-2018:  我将前往[商汤科技](https://www.sensetime.com), 以及[孙鹏博士](https://www.linkedin.com/in/sunpengsdu/)的指导下展开为期3个月的暑期实习!
   * 7月-2018:  我将从 [USTC](http://www.ustc.edu.cn/) 本科毕业，同时我从英才班荣誉毕业并获评中国科大2018届优秀毕业生.
   * 5月-2018:  我获得了中科大优秀毕业论文奖 (评选比例 5%)!
-  * 7月-2017:  我将前往荷兰 [University of Twente](https://www.utwente.nl/en/) 在 [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)的指导下展开为期三个月的暑期研究，感谢CSC的赞助!
+  * 7月-2017:  我将在国家留学基金委的支持下前往荷兰 [University of Twente](https://www.utwente.nl/en/) 在 [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)的指导下展开为期三个月的暑期研究，感谢CSC的赞助!
 
 &nbsp;
-
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,16,0" width="180px">
+<param name="movie" value="static/info/motion1.swf"> 
+<param name="quality" value="high"> 
+<param name="play" value="true"> 
+<param name="LOOP" value="true"> 
+<embed src="static/info/motion1.swf" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
+</object> 
 ## 出版物 (中国科大，本科期间)
   * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Accepted, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 10.1109/TCBB.2018.2864739.	
   * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
