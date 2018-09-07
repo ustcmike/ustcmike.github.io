@@ -19,7 +19,7 @@ My research interests include data mining and its wide application on biomedical
 &nbsp;
 
 ## Education
-  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018(<font color=red>[USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn)</font>)
+  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018([<font color=red>USTC 60TH ANNIVERSARY</font>](http://xq.ustc.edu.cn))
 
 &nbsp;
 ## What's New
