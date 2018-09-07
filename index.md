@@ -19,18 +19,9 @@ My research interests include data mining and its wide application on biomedical
 &nbsp;
 
 ## Education
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
-codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,16,0" width="100px">
-<param name="movie" value="static/info/motion1.swf"> 
-<param name="quality" value="high"> 
-<param name="play" value="true"> 
-<param name="LOOP" value="true"> 
-<embed src="static/info/motion1.swf" width="100px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
-</object> 
   *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018([USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn))
 
 &nbsp;
-
 ## What's New
   *  Sep-2018: I'm leaving for Nanyang Technological University(NTU) as Research Engineer in SCSE, under the supervision of [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/). Thank you for the opportunity, Prof. Wen.
   *  Aug-2018:   My paper "Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity" is accepted by IEEE/ACM TCBB! Thanks to Prof.Li Ao, Prof.Wang Minghui and Dr. Xi Jianing!
@@ -40,7 +31,14 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
   * July-2017:  I'm going to Netherlands for Summer Internship in [University of Twente](https://www.utwente.nl/en/) under the supervision of [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)!
 
 &nbsp;
-
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,16,0" width="180px">
+<param name="movie" value="static/info/motion1.swf"> 
+<param name="quality" value="high"> 
+<param name="play" value="true"> 
+<param name="LOOP" value="true"> 
+<embed src="static/info/motion1.swf" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
+</object> 
 ## Publications (Undergraduate, USTC)
   * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Accepted, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 10.1109/TCBB.2018.2864739.	
   * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
