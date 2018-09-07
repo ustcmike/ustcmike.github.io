@@ -23,10 +23,13 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 <param name="quality" value="high"> 
 <param name="play" value="true"> 
 <param name="LOOP" value="true"> 
-<embed src="static/info/motion1.swf" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
+<embed src="static/info/motion1.swf" width="150px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
 </object> 
+
 ## Education
-  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018
+  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018([USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn))
+
+&nbsp;
 
 ## What's New
   *  Sep-2018: I'm leaving for Nanyang Technological University(NTU) as Research Engineer in SCSE, under the supervision of [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/). Thank you for the opportunity, Prof. Wen.
