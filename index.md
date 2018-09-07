@@ -16,17 +16,18 @@ My name is Hang(航) WONG(or WANG, 王), I received my B.E. from Automation, Sch
 
 My research interests include data mining and its wide application on biomedical information, social media, financial analysis and related fields. Also I'm thrilled about Machine Learning and Artificial Intelligence.
 
+&nbsp;
+## Education
+  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018
+
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
 codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,16,0" width="180px">
 <param name="movie" value="static/info/motion1.swf"> 
 <param name="quality" value="high"> 
 <param name="play" value="true"> 
 <param name="LOOP" value="true"> 
-<embed> <src="static/info/motion1.swf" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
+<embed src="static/info/motion1.swf" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
 </object> 
-&nbsp;
-## Education
-  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018
 
 ## What's New
   *  Sep-2018: I'm leaving for Nanyang Technological University(NTU) as Research Engineer in SCSE, under the supervision of [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/). Thank you for the opportunity, Prof. Wen.
