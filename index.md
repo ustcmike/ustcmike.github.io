@@ -19,10 +19,11 @@ My research interests include data mining and its wide application on biomedical
 &nbsp;
 
 ## Education
-  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018([<font color=red>USTC 60TH ANNIVERSARY</font>](http://xq.ustc.edu.cn))
+  *  B.E., Automation(Talent Program in School of Information Science and Technology), University of Science and Technology of China, 2014~2018([USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn))
 
 &nbsp;
 ## What's New
+  *  20-Sep-2018: <font color=#FF0000> Happy 60TH ANNIVERSARY to my home university, USTC! <\font>
   *  Sep-2018: I'm leaving for Nanyang Technological University(NTU) as Research Engineer in SCSE, under the supervision of [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/). Thank you for the opportunity, Prof. Wen.
   *  Aug-2018:   My paper "Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity" is accepted by IEEE/ACM TCBB! Thanks to Prof.Li Ao, Prof.Wang Minghui and Dr. Xi Jianing!
   *  July-2018:  I'm going to [Sensetime](https://www.sensetime.com) in Shenzhen for a three-month internship, under the supervision of [Dr. Sun Peng](https://www.linkedin.com/in/sunpengsdu/)!
