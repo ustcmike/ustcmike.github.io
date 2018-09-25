@@ -46,7 +46,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 
 ## 研究经历
-  * **研究工程师, 新加坡南阳理工大学**, 9月 2018 - 9月 2019
+  * **研究工程师, 新加坡南洋理工大学**, 9月 2018 - 9月 2019
 	* 项目: 基于区块链的微电网P2P交易系统
 	* 指导老师: [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/) 和 Dr.Gao Guanyu
 	
