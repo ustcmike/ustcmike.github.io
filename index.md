@@ -49,10 +49,11 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 ## Research Experience
  * **Research Engineer, Nanyang Technological University, Singapore**, Sep 2018 - Sep 2019
 	* Project: Block-chain based microGrid P2P trading
+	* Mentor:  [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/) and Dr. Gao Guanyu
 	
-  * **Research Intern, Twente University**, July 2017 - Oct 2017
+  * **Research Intern, Twente University, Netherland**, July 2017 - Oct 2017
 	* Project: DATA FUSION FOR ARM REHABILITATION SYSTEM
-	* Mentor:  Dr. ir. B. J. F. van Beijnnum and [Mohamed Irfan Mohamed Refai](https://www.linkedin.com/in/mrmirfan/)
+	* Mentor:  Prof. ir. B. J. F. van Beijnnum and [Mohamed Irfan Mohamed Refai](https://www.linkedin.com/in/mrmirfan/)
 
   * **Research Associate, HI Lab, USTC**, June 2016 - Nov 2017
     * Project: Recommender System for drug sensitivity prediction
