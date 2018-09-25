@@ -47,6 +47,9 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 
 ## Research Experience
+ * **Research Engineer, Nanyang Technological University, Singapore**, Sep 2018 - Sep 2019
+	* Project: Block-chain based microGrid P2P trading
+	
   * **Research Intern, Twente University**, July 2017 - Oct 2017
 	* Project: DATA FUSION FOR ARM REHABILITATION SYSTEM
 	* Mentor:  Dr. ir. B. J. F. van Beijnnum and [Mohamed Irfan Mohamed Refai](https://www.linkedin.com/in/mrmirfan/)
