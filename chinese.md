@@ -46,6 +46,10 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 
 ## 研究经历
+  * **研究工程师, 新加坡南阳理工大学**, 9月 2018 - 9月 2019
+	* 项目: 基于区块链的微电网P2P交易系统
+	* 指导老师: [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/) 和 Dr.Gao Guanyu
+	
   * **研究实习, 荷兰特温特大学**, 7月 2017 - 10月 2017
 	* 项目: 远程治疗系统的数据融合
 	* 指导老师:  Dr. ir. B. J. F. van Beijnnum 和 [Mohamed Irfan Mohamed Refai](https://www.linkedin.com/in/mrmirfan/)
