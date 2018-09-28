@@ -84,4 +84,4 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
  * General affairs in class 3 Commissary, 2014–present
  * Chinese amateur violin certificate, level 8 Amateur
  
- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=n&d=E88vyhOzRJdE1JSRWCnweNEZ3UdMTAwk8U4b_DEk6cE'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=E88vyhOzRJdE1JSRWCnweNEZ3UdMTAwk8U4b_DEk6cE'></script>
