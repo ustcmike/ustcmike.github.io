@@ -78,3 +78,5 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
  * 2013版飞跃手册编辑, 2015
  * 中国科学技术大学信息学院三班生活委员, 2014–2018
  * 中国业余小提琴手，8级
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=E88vyhOzRJdE1JSRWCnweNEZ3UdMTAwk8U4b_DEk6cE'></script>
