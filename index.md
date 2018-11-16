@@ -51,7 +51,6 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 ## Research Experience
  * **Research Engineer, Nanyang Technological University, Singapore**, Sep 2018 - Sep 2019
 	* Project: Block-chain based microGrid P2P trading
-	* Mentor:  Dr. Gao Guanyu
 	
   * **Research Intern, Twente University, Netherland**, July 2017 - Oct 2017
 	* Project: DATA FUSION FOR ARM REHABILITATION SYSTEM
