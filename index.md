@@ -26,7 +26,7 @@ My research interests include data mining and its wide application on biomedical
 &nbsp;
 ## What's New
   *  20-Sep-2018: __Happy 60TH ANNIVERSARY to my alma mater, USTC!__
-  *  Sep-2018: I'm leaving for Nanyang Technological University(NTU) as Research Engineer in SCSE, under the supervision of [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/). Thank you for the opportunity, Prof. Wen.
+  *  Sep-2018: I'm leaving for Nanyang Technological University(NTU) as Research Engineer in SCSE.
   *  Aug-2018:   My paper "Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity" is accepted by IEEE/ACM TCBB! Thanks to Prof.Li Ao, Prof.Wang Minghui and Dr. Xi Jianing!
   *  July-2018:  I'm going to [Sensetime](https://www.sensetime.com) in Shenzhen for a three-month internship, under the supervision of [Dr. Sun Peng](https://www.linkedin.com/in/sunpengsdu/)!
   *  July-2018:  I'm going to graduate from [USTC](http://www.ustc.edu.cn/) with the Outstanding Graduate Honor and Talented Program Graduate Honor.
@@ -51,7 +51,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 ## Research Experience
  * **Research Engineer, Nanyang Technological University, Singapore**, Sep 2018 - Sep 2019
 	* Project: Block-chain based microGrid P2P trading
-	* Mentor:  [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/) and Dr. Gao Guanyu
+	* Mentor:  Dr. Gao Guanyu
 	
   * **Research Intern, Twente University, Netherland**, July 2017 - Oct 2017
 	* Project: DATA FUSION FOR ARM REHABILITATION SYSTEM

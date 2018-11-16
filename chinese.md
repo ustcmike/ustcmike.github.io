@@ -23,7 +23,7 @@ title: "Hang Wang: Homepage"
 
 ## 新消息
   * 20日-9月-2018: __红专并进一甲子，科教报国六十年，祝贺母校中国科大六十华诞！__
-  * 9月-2018： 我将前往新加坡南洋理工大学（NTU），在[Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/)的指导下完成科研工作，感谢您！
+  * 9月-2018： 我将前往新加坡南洋理工大学（NTU）开展实习研究！
   * 8月-2018:  我的论文Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity被IEEE/ACM TCBB接收！感谢我的合作者李骜教授，王明会教授，习佳宁博士！
   * 7月-2018:  我将前往[商汤科技](https://www.sensetime.com), 以及[孙鹏博士](https://www.linkedin.com/in/sunpengsdu/)的指导下展开为期3个月的暑期实习!
   * 7月-2018:  我将从 [USTC](http://www.ustc.edu.cn/) 本科毕业，同时我从英才班荣誉毕业并获评中国科大2018届优秀毕业生.
@@ -47,7 +47,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 ## 研究经历
   * **研究工程师, 新加坡南洋理工大学**, 9月 2018 - 9月 2019
 	* 项目: 基于区块链的微电网P2P交易系统
-	* 指导老师: [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/) 和 Dr.Gao Guanyu
+	* 指导老师: Dr.Gao Guanyu
 	
   * **研究实习, 荷兰特温特大学**, 7月 2017 - 10月 2017
 	* 项目: 远程治疗系统的数据融合
