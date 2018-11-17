@@ -21,7 +21,7 @@ My research interests include data mining and its wide application on biomedical
 &nbsp;
 
 ## Education
-  *  B.E., Automation（Weighted Score 87/100, Rank 7/93），Talent Program in School of Information Science and Technology, University of Science and Technology of China, 2014~2018([USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn))
+  *  B.E.(Talented Hon.), Automation（Weighted Score 87/100, Rank 7/93），Talent Program in School of Information Science and Technology, University of Science and Technology of China, 2014~2018([USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn))
 
 &nbsp;
 ## What's New
