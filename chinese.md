@@ -57,7 +57,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
     * 指导老师:  李骜教授 和 王明会教授
 
 ## 学术服务
-* **杂志审稿人
+* **杂志审稿人**
    * IEEE/ACM Transactions on Computational Biology and Bioinformatics
    * IEEE Journal of Biomedical and Health Informatics
 

@@ -61,7 +61,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
     * Mentor:  Prof. Ao Li and Prof. Minghui Wang
 
 ## Academic Service
-* **Journal Reviewer
+* **Journal Reviewer**
    * IEEE/ACM Transactions on Computational Biology and Bioinformatics
    * IEEE Journal of Biomedical and Health Informatics
 
