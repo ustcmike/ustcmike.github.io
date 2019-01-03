@@ -60,6 +60,10 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
     * Project: Recommender System for drug sensitivity prediction
     * Mentor:  Prof. Ao Li and Prof. Minghui Wang
 
+## Academic Service
+* ** Journal Reviewer
+   * IEEE/ACM Transactions on Computational Biology and Bioinformatics
+   * IEEE Journal of Biomedical and Health Informatics
 
 
 ## Teaching Experience
@@ -72,7 +76,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
  * The Silver Prize Scholarship Top 10%, 2017
  * University-level excellent League leader Top 5%, 2016
  * Shanghai Institute of Microsystem and Information Technology Scholarship Top 5%, 2015
- * Chen Guilin leadership scholarship Outstanding leadership, 2015
+ * Chen Guilin leadership scholarship Outstanding leadership Top 5%, 2015
  * Scholarship for Outstanding Fresher 2014
 
 
@@ -80,7 +84,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
  * Director, Comprehensive Affair Office of the USTC Student Union, 2016–2017
  * Volunteer, USTC Alumni Forum Outstanding, 2016
  * Editor, Go Abroad from USTC Handbook, 2015
- * General affairs in class 3 Commissary, 2014–present
- * Chinese amateur violin certificate, level 8 Amateur
+ * Commissary of General affairs in the class, 2014–2018
+ * Chinese amateur violin certificate, level 8 Amateur, 2010
  
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=386&t=tt&d=E88vyhOzRJdE1JSRWCnweNEZ3UdMTAwk8U4b_DEk6cE'></script>
