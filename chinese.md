@@ -14,7 +14,7 @@ title: "Hang Wang: Homepage"
 
 王航(拼音：Wang Hang), 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)）. 我是信息科技英才班的成员. 同时我也是中国科学技术大学健康信息学实验室成员（ [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) ），我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
 
-我的研究兴趣是数据挖掘以及其在医疗、社交媒体、金融分析等领域的应用.我同样对机器学习和人工智能有强烈的兴趣.
+我的研究兴趣主要是利用信息论、控制论等服务物理世界的实际需求.尤其我对与其在社交网络、智能电网、医疗信息等网络化信息的应用非常感兴趣.
 
 &nbsp;
 
@@ -77,7 +77,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 ## 课外活动
  * 中国科学技术大学学生会办公室主任, 2016–2017
  * 中科大校友返校优秀志愿者, 2016
- * 2013版飞跃手册编辑, 2015
+ * 2015版飞跃手册编辑, 2015
  * 中国科学技术大学信息学院三班生活委员, 2014–2018
  * 中国业余小提琴手，8级
 

@@ -16,7 +16,7 @@ __Hang WANG is now looking for PhD position on this planet (the Earth)!__
 
 My name is Hang(航) WONG(or WANG, 王), I received my B.E. from Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC). I was the member of The Talent Program in Information Science and Technology, USTC. I was also the member of the [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) and my advisor is [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html).
 
-My current research involves investigating how to use the principle of control theory, information theory and game theory to serve the phiscal world. My research interests lie primarily in the area of the information networks, including the smart-grid, biomedical information and social media. 
+My current research involves investigating how to use the principle of control theory, information theory and game theory to serve the physical world. My research interests lie primarily in the area of the information networks, including the smart-grid, biomedical information and social media. 
 
 &nbsp;
 
@@ -73,8 +73,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 ## Awards and Honors
  * Hornable Degree in School of Information Science and Technology Talented program, Top 5%, 2017
- * The Silver Prize Scholarship Top 10%, 2017
- * University-level excellent League leader Top 5%, 2016
+ * The Silver Prize Scholarship Top 10%, 2017,2016
  * Shanghai Institute of Microsystem and Information Technology Scholarship Top 5%, 2015
  * Chen Guilin leadership scholarship Outstanding leadership Top 5%, 2015
  * Scholarship for Outstanding Fresher 2014
