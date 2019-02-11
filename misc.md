@@ -3,6 +3,13 @@ layout: default
 section: misc
 title: "Hang Wang: MISC"
 ---
+## Albums I have been played
+  * [Spring Festival Overture (violin version)](https://youtu.be/Qy_Kozzsspo)
+  * [The Spanish Album (Itzhak Perlman)](http://www.itzhakperlman.com/)
+  * [Traumerel (Schumann)](https://youtu.be/rCq5ztIv9Vg)
+  * [Butterfly Lovers (Classical Chinese Music)](https://youtu.be/Kl2f4b76aR4)
+  * [Concerti per Violino (BWV1043)](https://youtu.be/Z4LFjuWvwzw)
+  * etc.
 
 ## Language I have been using
   * Computer Language
@@ -21,31 +28,5 @@ title: "Hang Wang: MISC"
     - Dutch, ABC Speaker
 
 
----
 
-## Conference I have been watching
-  * Data Mining
-    - [SigKDD](http://www.sigkdd.org/)
-    - [ICDM](http://www.cs.uvm.edu/~icdm/)
-    - [SDM](http://www.siam.org/meetings/sdm07/)
-    - [WWW](http://www.iw3c2.org/conferences)
-  * Artificial Intelligence/Machine Learning
-    - [NIPS](https://nips.cc/)
-    - [ICML](https://icml.cc/)
-    - [CVPR](http://cvpr2018.thecvf.com/)
-    - [AAAI](https://aaai.org/Conferences/AAAI-18/)
-
----
-
-## Useful Links
-  * Dream Corporation Researchers
-    - [Jiawei Han](http://hanj.cs.illinois.edu/)
-    - [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/)
-    - [Jiebo Luo](http://www.cs.rochester.edu/u/jluo/)
-    - [Hui Xiong](http://datamining.rutgers.edu/)
-  * Great Resources
-    - [Data Mining, MIT OCW](http://ocw.mit.edu/OcwWeb/Sloan-School-of-Management/15-062Data-MiningSpring2003/CourseHome/)
-    - [Data Mining Group, Tsinghua](http://dbgroup.cs.tsinghua.edu.cn/dmg.html) 
-    - [KDD oral presentations video](http://www.videolectures.net)
-    - [A google co-op search engine for Data Mining](http://www.google.com/coop/cse?cx=006422944775554126616:ixcd3tdxkke)
 

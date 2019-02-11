@@ -18,6 +18,8 @@ My name is Hang(航) WONG(or WANG, 王), I received my B.E. from Automation, Sch
 
 My current research involves investigating how to use the principle of control theory, information theory and game theory to serve the physical world. My research interests lie primarily in the area of the information networks, including the smart-grid, biomedical information and social media. 
 
+I'm also an amateur violinist (Level 8) since 8 years old.
+
 &nbsp;
 
 ## Education
@@ -50,11 +52,12 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 ## Research Experience
  * **Research Engineer, Nanyang Technological University, Singapore**, Sep 2018 - Sep 2019
-	* Project: Block-chain based microGrid P2P trading
+	* Project: P2P trading in the Smart-Grid Communication network (EMA Singapore project) 
+	* Mentor: [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/)
 	
   * **Research Intern, Twente University, Netherland**, July 2017 - Oct 2017
 	* Project: DATA FUSION FOR ARM REHABILITATION SYSTEM
-	* Mentor:  Prof. ir. B. J. F. van Beijnnum and [Mohamed Irfan Mohamed Refai](https://www.linkedin.com/in/mrmirfan/)
+	* Mentor:  [Prof. ir. B. J. F. van Beijnnum](https://people.utwente.nl/b.j.f.vanbeijnum) and [Mohamed Irfan Mohamed Refai](https://www.linkedin.com/in/mrmirfan/)
 
   * **Research Associate, HI Lab, USTC**, June 2016 - Nov 2017
     * Project: Recommender System for drug sensitivity prediction
