@@ -10,30 +10,30 @@ title: "Hang WANG's Homepage"
 {% include social.html %}
 &nbsp;
 
-Welcome to my homepage! 
+Welcome to Hang's homepage! 
 
 __Hang WANG is an upcoming Ph.D. student on this planet (the Earth)!__
 
-My name is Hang(航) WONG(or WANG, 王), I received my B.E. from Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC). I was the member of The Talent Program in Information Science and Technology, USTC. I was also the member of the [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) and my advisor is [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html).
+Hang(航) WONG(or WANG, 王) received his B.E. from Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC). He has been the member of The Talent Program in Information Science and Technology since 2014. He was fortunate to be mentored by [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html) in USTC.
 
-My current research involves investigating how to use the principle of control theory, information theory and game theory to serve the physical world. My research interests lie primarily in the area of the information networks, including the smart-grid, biomedical information and social media. 
+Hang's current research involves investigating how to use the principle of control theory, information theory and game theory to serve the physical world. Hang's research interests lie primarily in the area of the information networks, including the smart-grid, biomedical information and social media. 
 
-I'm also an amateur violinist (Level 8) since 8 years old.
+Hang is also an amateur violinist (Level 8) since 8 years old.
 
 &nbsp;
 
 ## Education
-  *  B.E.(Talented Hon.), Automation（Weighted Score 87/100, Rank 7/93），Talent Program in School of Information Science and Technology, University of Science and Technology of China, 2014~2018([USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn))
+  *  B.E.(Talented Hon.), Automation(TOP 7/93), University of Science and Technology of China, Hefei, 2014~2018
 
 &nbsp;
 ## What's New
-  *  20-Sep-2018: __Happy 60TH ANNIVERSARY to my alma mater, USTC!__
-  *  Sep-2018: I'm leaving for Nanyang Technological University(NTU) as Research Engineer in SCSE.
+  *  20-Sep-2018: __Happy 60TH ANNIVERSARY to my alma mater, USTC! ([USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn))__
+  *  Sep-2018:   I'm leaving for Nanyang Technological University(NTU, Singapore) as a Research Engineer in SCSE.
   *  Aug-2018:   My paper "Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity" is accepted by IEEE/ACM TCBB! Thanks to Prof.Li Ao, Prof.Wang Minghui and Dr. Xi Jianing!
   *  July-2018:  I'm going to [Sensetime](https://www.sensetime.com) in Shenzhen for a three-month internship, under the supervision of [Dr. Sun Peng](https://www.linkedin.com/in/sunpengsdu/)!
   *  July-2018:  I'm going to graduate from [USTC](http://www.ustc.edu.cn/) with the Outstanding Graduate Honor and Talented Program Graduate Honor.
-  * May-2018:  I won the Excellent Graduation Thesis Award **(TOP 5% in USTC)**!
-  * July-2017:  I'm going to Netherlands for Summer Internship in [University of Twente](https://www.utwente.nl/en/) under the supervision of [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)!
+  *  May-2018:  I won the Excellent Graduation Thesis Award **(TOP 5% in USTC)**!
+  *  July-2017:  I'm going to Netherlands for Summer Internship in [University of Twente](https://www.utwente.nl/en/) under the supervision of [Dr.ir. B. J. F. van Beijnum](https://www.utwente.nl/en/eemcs/bss/people/staff/bert_jan_vanbeijnum/%20)!
 
 &nbsp;
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
@@ -52,11 +52,11 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 ## Research Experience
  * **Research Engineer, Nanyang Technological University, Singapore**, Sep 2018 - Sep 2019
-	* Project: P2P trading in the Smart-Grid Communication network (EMA Singapore project) 
+	* Project: P2P Trading in the Smart-Grid Communication Network (EMA Singapore project) 
 	* Mentor: [Prof. Wen Yonggang](http://www.ntu.edu.sg/home/ygwen/)
 	
   * **Research Intern, Twente University, Netherland**, July 2017 - Oct 2017
-	* Project: DATA FUSION FOR ARM REHABILITATION SYSTEM
+	* Project: Data Fusion For Arm Rehabilitation System
 	* Mentor:  [Prof. ir. B. J. F. van Beijnnum](https://people.utwente.nl/b.j.f.vanbeijnum) and [Mohamed Irfan Mohamed Refai](https://www.linkedin.com/in/mrmirfan/)
 
   * **Research Associate, HI Lab, USTC**, June 2016 - Nov 2017

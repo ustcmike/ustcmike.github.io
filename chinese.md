@@ -10,19 +10,19 @@ title: "Hang Wang: Homepage"
 
 &nbsp;
 
-欢迎来到我的个人主页! 
+欢迎来到王航的个人主页! 
 
-王航(拼音：Wang Hang), 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)）. 我是信息科技英才班的成员. 同时我也是中国科学技术大学健康信息学实验室成员（ [Health Informatics Lab](http://bioinformatics.ustc.edu.cn/) ），我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
+王航(拼音：Wang Hang), 本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)），是信息科技英才班的成员（2014-2018）. 我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
 
-我的研究兴趣主要是利用信息论、控制论等服务物理世界的实际需求.尤其我对与其在社交网络、智能电网、医疗信息等网络化信息的应用非常感兴趣.
+我的研究兴趣主要是利用信息论、控制论等服务物理世界的实际需求.同时我对于其在社交网络、智能电网、医疗信息等网络化信息的应用非常感兴趣.
 
 &nbsp;
 
 ## 教育经历
-  *  工学学士学位(英才荣誉等级)，自动化专业(加权平均分87/100，院系排名7/93), 信息科技英才班, 中国科学技术大学, 2014~2018([中国科大六十周年校庆，2018](http://xq.ustc.edu.cn))
+  *  工学学士学位, 英才班荣誉, 自动化系(排名7/93), 中国科学技术大学, 合肥, 2014~2018
 
 ## 新消息
-  * 20日-9月-2018: __红专并进一甲子，科教报国六十年，祝贺母校中国科大六十华诞！__
+  * 20日-9月-2018: __红专并进一甲子，科教报国六十年，祝贺母校中国科大六十华诞！([中国科大六十周年校庆，2018](http://xq.ustc.edu.cn))__
   * 9月-2018： 我将前往新加坡南洋理工大学（NTU）开展实习研究！
   * 8月-2018:  我的论文Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity被IEEE/ACM TCBB接收！感谢我的合作者李骜教授，王明会教授，习佳宁博士！
   * 7月-2018:  我将前往[商汤科技](https://www.sensetime.com), 以及[孙鹏博士](https://www.linkedin.com/in/sunpengsdu/)的指导下展开为期3个月的暑期实习!
