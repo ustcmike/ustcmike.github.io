@@ -12,7 +12,7 @@ title: "Hang WANG's Homepage"
 
 Welcome to Hang's homepage! 
 
-__Hang WANG will join [Arizona State University](https://engineering.asu.edu) as a Ph.D. student this summer! This challenging journey will be mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)__
+__Hang WANG will join [Arizona State University](https://engineering.asu.edu) as a Ph.D. student this summer! Hang's challenged journey in ASU will be mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)!__
 
 Hang(航) WONG(or WANG, 王) received his B.E. from Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC). He has been the member of The Talent Program in Information Science and Technology since 2014. He was fortunate to be mentored by [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html) in USTC.
 
