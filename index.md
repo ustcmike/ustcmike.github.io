@@ -23,6 +23,7 @@ Hang is also an amateur violinist (Level 8) since 8 years old.
 &nbsp;
 
 ## Education
+  *  Ph.D., Electricity Engineering, Arizona State University, Tempe, 2019~present
   *  B.E.(Talented Hon.), Automation(TOP 7/93), University of Science and Technology of China, Hefei, 2014~2018
 
 &nbsp;
