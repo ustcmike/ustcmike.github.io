@@ -3,7 +3,7 @@ layout: default
 section: misc
 title: "Hang Wang: MISC"
 ---
-## Albums I have been played
+## Albums I have played before
   * [Spring Festival Overture (violin version)](https://youtu.be/Qy_Kozzsspo)
   * [The Spanish Album (Itzhak Perlman)](http://www.itzhakperlman.com/)
   * [Traumerel (Schumann)](https://youtu.be/rCq5ztIv9Vg)
