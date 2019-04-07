@@ -42,7 +42,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 ## 出版物 (中国科大，本科期间)
   * **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](https://ieeexplore.ieee.org/document/8432100)**. *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* Accepted, IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 10.1109/TCBB.2018.2864739.	
   * **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**. *__Hang Wang.__* USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
-   * **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](static/papers/17-tnsre.pdf)**,*__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum*, Submitted to 12th International Joint Conference on Biomedical Engineering Systems and Technologies,  Prague, Czech, 2019.
+   * **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](https://research.utwente.nl/en/publications/measuring-upper-extremity-use-with-one-imu)**,*__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum*, Submitted to 12th International Joint Conference on Biomedical Engineering Systems and Technologies,  Prague, Czech, 2019.
 
 ## 研究经历
   * **研究工程师, 新加坡南洋理工大学**, 9月 2018 - 9月 2019
