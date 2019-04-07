@@ -46,7 +46,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 <embed src="static/info/motion1.swf" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"> 
 </object> 
 ## Publications (Undergraduate, USTC)
-  * *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](static/papers/17-dsctr.pdf)**. IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 10.1109/TCBB.2018.2864739.	
+  * *__Hang Wang__, Jianing Xi, Minghui Wang, Ao Li.* **[Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity](https://ieeexplore.ieee.org/document/8432100)**. IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 10.1109/TCBB.2018.2864739.	
   * *__Hang Wang.__* **[Graphic Model Based Drug Sensitivity Prediction Research(in Chinese)](static/papers/18-thesis.pdf)**.  USTC Bachelor Tehsis. **(Excellent Graduation Thesis Award, TOP 5%)**
   * *__Hang Wang__, Mohamed Irfan Mohamed Refai, Bert-Jan van Beijnum.* **[One Inertial Sensor Based Metric for Upper-extremity Measurement (Dutch Project)](static/papers/17-tnsre.pdf)**, Accepted by 12th International Joint Conference on Biomedical Engineering Systems and Technologies,  Prague, Czech, 2019.
 
