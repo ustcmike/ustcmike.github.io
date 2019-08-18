@@ -12,9 +12,7 @@ title: "Hang WANG's Homepage"
 
 Welcome to Hang's homepage! 
 
-__Hang WANG will join [Arizona State University](https://engineering.asu.edu) as a Ph.D. student this summer! Hang's challenging journey in ASU will be mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)!__
-
-Hang(航) WONG(or WANG, 王) received his B.E. from Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC). He has been the member of The Talent Program in Information Science and Technology since 2014. He was fortunate to be mentored by [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html) in USTC.
+Hang(航) WONG(or WANG, 王) is the Ph.D. student in [Arizona State University](https://engineering.asu.edu). Hang's challenging journey in ASU will be mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)! He received his B.E. from Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC). He has been the member of The Talent Program in Information Science and Technology since 2014. He was fortunate to be mentored by [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html) in USTC.
 
 Hang's current research involves investigating how to use the principle of control theory, information theory and game theory to serve the physical world. Hang's research interests lie primarily in the area of the information networks, including the smart-grid, biomedical information and social media. 
 
@@ -28,6 +26,7 @@ Hang is also an amateur violinist (Level 8) since 8 years old.
 
 &nbsp;
 ## What's New
+  *  12-Aug-2019:	I've arrived at Arizona, the hottest place I've ever been before. Hope I'll be fine.
   *  20-Sep-2018: __Happy 60TH ANNIVERSARY to my alma mater, USTC! ([USTC 60TH ANNIVERSARY](http://xq.ustc.edu.cn))__
   *  Sep-2018:   I'm leaving for Nanyang Technological University(NTU, Singapore) as a Research Engineer in SCSE.
   *  Aug-2018:   My paper "Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity" is accepted by IEEE/ACM TCBB! Thanks to Prof.Li Ao, Prof.Wang Minghui and Dr. Xi Jianing!
