@@ -12,7 +12,9 @@ title: "Hang Wang: Homepage"
 
 欢迎来到王航的个人主页! 
 
-王航(拼音：Wang Hang), 现与美国亚利桑那州立大学攻读博士学位. 王航本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)），是信息科技英才班的成员（2014-2018）. 我的导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
+王航(拼音：Wang Hang), 现于美国亚利桑那州立大学攻读博士学位，我的导师是章君山教授. 
+
+王航本科毕业于中国科学技术大学信息科学技术学院自动化系（[University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)），是信息科技英才班的成员（2014-2018）. 我的本科导师是 [李骜教授](http://bioinformatics.ustc.edu.cn/teams.html).
 
 我的研究兴趣主要是利用信息论、控制论等服务物理世界的实际需求.同时我对于其在社交网络、智能电网、医疗信息等网络化信息的应用非常感兴趣.
 
@@ -23,7 +25,7 @@ title: "Hang Wang: Homepage"
   *  工学学士学位, 英才班荣誉, 自动化系(排名7/93), 中国科学技术大学, 合肥, 2014~2018
 
 ## 新消息
-  * 12日-8月-2019: 我已经抵达亚利桑那，我所到过的最热的地方。祝我好运！
+  * 12日-8月-2019: 我已经抵达亚利桑那 -- 我所到过的最热的地方。祝我好运！
   * 20日-9月-2018: __红专并进一甲子，科教报国六十年，祝贺母校中国科大六十华诞！([中国科大六十周年校庆，2018](http://xq.ustc.edu.cn))__
   * 9月-2018： 我将前往新加坡南洋理工大学（NTU）开展实习研究！
   * 8月-2018:  我的论文Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity被IEEE/ACM TCBB接收！感谢我的合作者李骜教授，王明会教授，习佳宁博士！
