@@ -12,9 +12,9 @@ title: "Hang WANG's Homepage"
 
 Welcome to Hang's homepage! 
 
-Hang(航) WONG(or WANG, 王) is the Ph.D. student at [Arizona State University](https://engineering.asu.edu). Hang's challenging journey in ASU will be mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)! 
+Hang(航) WONG(or WANG, 王) is the Ph.D. student at [Arizona State University](https://engineering.asu.edu) and he is mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)! 
 
-He received his B.E. from Automation, School of Information Science and Technology, [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC). He has been the member of The Talent Program in Information Science and Technology since 2014. He was fortunate to be mentored by [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html) in USTC.
+He received his B.E. from [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/)(USTC, TOP3 in Best Global Universities ranking in China). He has been the member of The Talent Program in Information Science and Technology since 2014. He was fortunate to be mentored by [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html) in USTC.
 
 Hang's current research involves investigating how to use the principle of control theory, information theory and game theory to serve the physical world. Hang's research interests lie primarily in the area of the information networks, including the smart-grid, biomedical information and social media. 
 
