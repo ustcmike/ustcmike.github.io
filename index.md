@@ -6,11 +6,11 @@ title: "Hang WANG's Homepage"
 ---
 <img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
-# Hang WANG (Mike)
+# Mike Hang WANG
 {% include social.html %}
 &nbsp;
 
-Welcome to Hang's homepage! 
+Welcome to Mike's homepage! 
 
 Hang(航) WONG(or WANG, 王) is the Ph.D. student at [Arizona State University](https://engineering.asu.edu) and he is mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)! 
 
