@@ -4,7 +4,7 @@ section: home
 title: "Hang WANG's Homepage"
 
 ---
-<img src="static/info/profile.jpg" class="img-thumbnail" width="180px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
+<img src="static/info/profile.jpg" class="img-thumbnail" width="160px" style="float:right; margin-left:30px; margin-top:35px; margin-bottom:10px;">
 
 # Mike Hang WANG
 {% include social.html %}
@@ -12,9 +12,7 @@ title: "Hang WANG's Homepage"
 
 Welcome to Mike's homepage! 
 
-Hang(航) WONG(or WANG, 王) is the Ph.D. student at [Arizona State University](https://engineering.asu.edu) and he is mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)! 
-
-He received his B.E. from [University of Science and Technology of China, P. R. China](http://www.ustc.edu.cn/). He has been the member of The Talent Program in Information Science and Technology since 2014. He was fortunate to be mentored by [Prof. Ao Li](http://bioinformatics.ustc.edu.cn/teams.html) in USTC.
+Hang WONG(or WANG) is the Ph.D. student at [Arizona State University](https://engineering.asu.edu) and he is mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)! 
 
 Hang's current research involves investigating how to use the principle of control theory, information theory and game theory to serve the physical world. Hang's research interests lie primarily in the area of the information networks, distributed optimization, learning theory with their application in edge intelligence. 
 
@@ -24,7 +22,7 @@ Hang is also an amateur violinist (Level 8) since 8 years old.
 
 ## Education
   *  Ph.D., Electricity Engineering, Arizona State University, Tempe, 2019~present
-  *  B.E.(Talented Hon.), Automation(TOP 7/93), University of Science and Technology of China, Hefei, 2014~2018
+  *  B.E.(Talented Hon.), Automation(TOP 7/93), USTC, 2014~2018
 
 &nbsp;
 ## What's New
