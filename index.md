@@ -84,7 +84,6 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 
 ## Extracurriculum Events
- * Amateur violinist, Level 8
  * Director, Comprehensive Affair Office of the USTC Student Union, 2016–2017
  * Volunteer, USTC Alumni Forum Outstanding, 2016
  * Editor, Go Abroad from USTC Handbook, 2015
