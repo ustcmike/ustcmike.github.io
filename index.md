@@ -69,7 +69,9 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 
 ## Teaching Experience
-  * **Teaching Assistant, USTC**, Fall 2017
+  * **TA, ASU**, 19Fall, 20Spring
+    * EEE488,489, Senior Engineer Design, [Prof. Michael Kozicki](https://isearch.asu.edu/profile/57492).
+  * **TA, USTC**, 17Fall
     * 01015901, Principle of Automation, [Prof. Gang Wu](http://iia.ustc.edu.cn/iia/?p=33).
 
 
