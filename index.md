@@ -12,11 +12,10 @@ title: "Hang WANG's Homepage"
 
 Welcome to Mike's homepage! 
 
-Hang WONG(or WANG) is the Ph.D. student at [Arizona State University](https://engineering.asu.edu) and he is mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)! 
+Hang WANG is the Ph.D. student at [Arizona State University](https://engineering.asu.edu) and he is mentored by [Prof. Junshan Zhang](http://informationnet.asu.edu)! 
 
 Hang's current research involves investigating how to use the principle of control theory, information theory and game theory to serve the physical world. Hang's research interests lie primarily in the area of the information networks, distributed optimization, learning theory with their application in edge intelligence. 
 
-Hang is also an amateur violinist (Level 8) since 8 years old.
 
 &nbsp;
 
@@ -83,6 +82,7 @@ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#ve
 
 
 ## Extracurriculum Events
+ * Amateur violinist, Level 8
  * Director, Comprehensive Affair Office of the USTC Student Union, 2016–2017
  * Volunteer, USTC Alumni Forum Outstanding, 2016
  * Editor, Go Abroad from USTC Handbook, 2015
