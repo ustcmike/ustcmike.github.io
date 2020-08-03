@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{index.html}  
-=Hang Wang's Homepage 
-
+= Hang Wang's Homepage 
+{{<link rel="icon" href="photo/profile.jpg" />}}
 ~~~
 {}{img_left}{photos/profile.jpg}{alt text}{145}{215}{}
 PhD Student 
@@ -32,3 +32,16 @@ My research interests primarily lie in machine learning and distributed optimiza
 - 12-Aug-2019: I’ve arrived at Arizona, the hottest place I’ve ever been before.
 - 20-Sep-2018: Happy 60TH ANNIVERSARY to my alma mater, USTC! 
 
+{{
+<script type="text/javascript">
+var sc_project=12370136; 
+var sc_invisible=1; 
+var sc_security="e8e1e444"; 
+var sc_https=1; 
+var sc_remove_link=1; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="https://c.statcounter.com/12370136/0/e8e1e444/1/" alt="Web
+Analytics"></div></noscript>}}
