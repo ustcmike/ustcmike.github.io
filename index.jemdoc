@@ -39,6 +39,7 @@ https://ustcmike.github.io -->
 var sc_project=12370136; 
 var sc_invisible=1; 
 var sc_security="3374456b"; 
+var sc_https=1; 
 </script>
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
