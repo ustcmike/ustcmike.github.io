@@ -32,9 +32,10 @@ My research interests primarily lie in machine learning and distributed optimiza
 - 12-Aug-2019: I’ve arrived at Arizona, the hottest place I’ve ever been before.
 - 20-Sep-2018: Happy 60TH ANNIVERSARY to my alma mater, USTC! 
 
-{{
+
+{{ 
 <!-- Default Statcounter code for Personal Homepage
-https://ustcmike.github.io -->
+https://ustcmike.github.io/ -->
 <script type="text/javascript">
 var sc_project=12370136; 
 var sc_invisible=1; 
@@ -44,13 +45,13 @@ var sc_https=1;
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
 async></script>
-<noscript><div class="statcounter"><a title="Web Analytics
-Made Easy - StatCounter" href="https://statcounter.com/"
-target="_blank"><img class="statcounter"
+<noscript><div class="statcounter"><a title="web stats"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
 src="https://c.statcounter.com/12370136/0/3374456b/1/"
-alt="Web Analytics Made Easy -
-StatCounter"></a></div></noscript>
-<!-- End of Statcounter Code -->}}
+alt="web stats"></a></div></noscript>
+<!-- End of Statcounter Code -->
+}}
 
 
 
