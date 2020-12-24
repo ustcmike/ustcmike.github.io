@@ -2,6 +2,11 @@
 =Publication(Graduate) 
 
 == Articles
+- [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked
+  Control]
+-- Hang Wang, Sen Lin, Hamid Jafarkhani, Junshan Zhang
+-- AAMAS 2021 (Extended Abstract) 
+
 - [https://arxiv.org/abs/2010.14664 System Identification via Meta-Learning in Linear Time-Varying Environments]
 -- Sen Lin, Hang Wang, Junshan Zhang
 -- arXiv:2010.14664, 2020 
