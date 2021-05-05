@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}  
-= Hang Wang's Homepage 
+= Hang Mike-Wang's Homepage 
 {{<link rel="icon" href="photo/profile.jpg" />}}
 ~~~
 {}{img_left}{photos/profile.jpg}{alt text}{145}{215}{}
@@ -22,7 +22,7 @@ I'm currently a Ph.D student in Electrical Enigeering at ASU. I'm fortunate to b
 My research interests primarily lie in machine learning and distributed optimization, especially in optimal control and information networks; with application in communication network, IoT and Edge computing. 
 
 == Education
-- Ph.D. student in Electrical Engineering, ASU, 2019-now(Advisor: [http://informationnet.asu.edu Prof. Junshan Zhang])
+- Ph.D. student in Electrical Engineering, ASU, 2019-now (Advisor: [http://informationnet.asu.edu Prof. Junshan Zhang])
 - B.Eng (Talent Honor) in Automation, [https://en.ustc.edu.cn USTC], 2014-2018
 
 == Award
