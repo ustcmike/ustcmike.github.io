@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{publication2.html}  
+=Publication(Undergraduate) 
+
+== Articles
+- [https://ieeexplore.ieee.org/document/8432100 Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity]
+-- *H. Wang*, J. Xi, M. Wang, A. Li.
+-- IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 2018.
+
+- [https://research.utwente.nl/en/publications/measuring-upper-extremity-use-with-one-imu One Inertial Sensor Based Metric for Upper-extremity Measurement ]
+-- *H. Wang*, Mohamed Irfan Mohamed Refai, Bernhard J.F. van Beijnum
+-- 12th International Joint Conference on Biomedical Engineering Systems and Technologies 2019, Prague, Czech Republic.
+
+
+
+== Thesis 
+-  Graphic Model Based Drug Sensitivity Prediction Research
+-- *H. Wang*
+-- Excellent Graduation Thesis Award, TOP 5%
