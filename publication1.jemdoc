@@ -3,7 +3,7 @@
 
 == Articles
 - Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback 
--- Hang Wang, Sen Lin, Hamid Jafarkhani, Junshan Zhang
+-- Hang Wang, Sen Lin, Junshan Zhang
 -- NeurIPS 2021
 
 - [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked
