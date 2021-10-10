@@ -2,6 +2,10 @@
 =Publication(Graduate) 
 
 == Articles
+- Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback 
+-- Hang Wang, Sen Lin, Hamid Jafarkhani, Junshan Zhang
+-- NeurIPS 2021
+
 - [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked
   Control] 
 -- [https://web.ecs.syr.edu/~ffiorett/cfp/OptLearnMAS-21/Wang_261.mp4 Video], [https://generic.wordpress.soton.ac.uk/aamas2021/wp-content/uploads/sites/393/2021/03/poster_AAMAS_HANG-WANG.pdf Poster]
@@ -13,4 +17,6 @@
 -- arXiv:2010.14664, 2020 
 
 == Thesis
-
+- Reinforcement Learning based Control in Networked Systems
+-- Qualifying Exam for Direct PhD student
+-- Hang Wang
