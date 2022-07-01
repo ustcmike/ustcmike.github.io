@@ -4,12 +4,11 @@
 ~~~
 {}{img_left}{photos/profile.jpg}{alt text}{145}{215}{}
 PhD Student 
-\n [https://ecee.engineering.asu.edu School of Electrical, Computer and Energy Engineering] 
-\n [https://engineering.asu.edu Ira A. Fulton Schools of Engineering]
-\n[https://www.asu.edu Arizona State University]\n
+\n [https://ece.ucdavis.edu/ School of Electrical and Computer Engineering] 
+\n[https://www.ucdavis.edu/ University of California, Davis]\n
 
-Office: Goldwater Center 450 \n
-Address: 650 E. Tyler Mall, Tempe, AZ, 85281 \n 
+Office: TBD \n
+Address: 545 Bainer Hall Dr, Davis, CA 95616 \n 
 Email: /hwang442/ \[@\] asu \[DOT\] edu\n
 
 [https://scholar.google.com/citations?user=Xdb3u_q3RKwC&hl=en&authuser=1 Google Scholar]\n
@@ -17,18 +16,19 @@ Email: /hwang442/ \[@\] asu \[DOT\] edu\n
 ~~~
 
 == About Me
-I'm currently a Ph.D student in Electrical Enigeering at ASU. I'm fortunate to be advised by [http://informationnet.asu.edu Prof. Junshan Zhang].\n
+I'm currently a Ph.D student in Electrical Enigeering at UC Davis. I'm fortunate to be advised by [https://faculty.engineering.ucdavis.edu/jzhang/ Prof. Junshan Zhang].\n
 
-My research interests primarily lie in machine learning and distributed optimization, especially in optimal control and information networks; with application in communication network, IoT and Edge computing. 
+My research interests primarily lie in reinforcement learning and distributed optimization, especially in optimal control and information networks; with applications in Autonomous Driving, IoT and Edge Computing. 
 
 == Education
-- Ph.D. student in Electrical Engineering, ASU, 2019-now (Advisor: [http://informationnet.asu.edu Prof. Junshan Zhang])
+- Ph.D. student in Electrical Engineering, UC Davis, 2019-now (Advisor: [https://faculty.engineering.ucdavis.edu Prof. Junshan Zhang])
 - B.Eng (Talent Honor) in Automation, [https://en.ustc.edu.cn USTC], 2014-2018
 
 == Award
 - University Graduate Fellowship, ASU, 2019-2020
 
 == Recent News 
+- 16-May-2022: I start to work as a graduate intern at [https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html Intel Network Platform Group and Intel AI lab].
 - 28-Sep-2021: My work "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback" is accepted by NeurIPS'21.
 - 17-Dec-2020: My work [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked Control] is accepted by AAMAS 2021.
 - 27-Oct-2020: Our group's new work [https://arxiv.org/abs/2010.14664 System Identification via Meta-Learning in Linear Time-Varying Environments] is now available!
