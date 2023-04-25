@@ -2,6 +2,11 @@
 =Publication(Graduate) 
 
 == Articles
+- Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap
+-- Hang Wang, Sen Lin, Junshan Zhang
+-- ICML 2023 (Oral)
+
+
 - Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback 
 -- Hang Wang, Sen Lin, Junshan Zhang
 -- NeurIPS 2021

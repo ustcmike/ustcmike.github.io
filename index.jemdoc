@@ -28,6 +28,7 @@ My research interests primarily lie in reinforcement learning and distributed op
 - University Graduate Fellowship, ASU, 2019-2020
 
 == Recent News 
+- 24-April-2023: Aloha! My work "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by ICML 2023 (Oral). See you in Hawaii!
 - 16-May-2022: I start to work as a graduate intern at [https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html Intel Network Platform Group and Intel AI lab].
 - 28-Sep-2021: My work "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback" is accepted by NeurIPS'21.
 - 17-Dec-2020: My work [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked Control] is accepted by AAMAS 2021.
@@ -35,25 +36,23 @@ My research interests primarily lie in reinforcement learning and distributed op
 - 12-Aug-2019: I’ve arrived at Arizona, the hottest place I’ve ever been before.
 
 
-{{ 
 <!-- Default Statcounter code for Personal Homepage
 https://ustcmike.github.io/ -->
 <script type="text/javascript">
 var sc_project=12370136; 
 var sc_invisible=1; 
-var sc_security="3374456b"; 
+var sc_security="73898ceb"; 
 </script>
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
 async></script>
-<noscript><div class="statcounter"><a title="Web Analytics
-Made Easy - StatCounter" href="https://statcounter.com/"
-target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/12370136/0/3374456b/1/"
-alt="Web Analytics Made Easy -
-StatCounter"></a></div></noscript>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12370136/0/73898ceb/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
-}}
 
 
 
