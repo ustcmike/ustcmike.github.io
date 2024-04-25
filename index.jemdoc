@@ -2,13 +2,13 @@
 = Hang Mike-Wang's Homepage 
 {{<link rel="icon" href="photo/profile.jpg" />}}
 ~~~
-{}{img_left}{photos/profile.jpg}{alt text}{145}{215}{}
-PhD Student 
+{}{img_left}{photos/profile.jpg}{alt text}{145}{195}{}
+PhD Candidate 
 \n [https://ece.ucdavis.edu/ School of Electrical and Computer Engineering] 
 \n[https://www.ucdavis.edu/ University of California, Davis]\n
 
-Office: TBD \n
-Address: 545 Bainer Hall Dr, Davis, CA 95616 \n 
+
+Address: 1580 Tilia St, Davis, CA 95616 \n 
 Email: /whang/ \[@\] ucdavis \[DOT\] edu\n
 
 [https://scholar.google.com/citations?user=Xdb3u_q3RKwC&hl=en&authuser=1 Google Scholar]\n
@@ -18,7 +18,7 @@ Email: /whang/ \[@\] ucdavis \[DOT\] edu\n
 == About Me
 I'm currently a Ph.D student in Electrical Enigeering at UC Davis. I'm fortunate to be advised by [https://faculty.engineering.ucdavis.edu/jzhang/ Prof. Junshan Zhang].\n
 
-My research interests primarily lie in reinforcement learning and distributed optimization, especially in optimal control and information networks; with applications in Autonomous Driving, IoT and Edge Computing. 
+My research interests primarily lie in reinforcement learning, distributed learning, and foundation model (world model) with applications in Autonomous Driving, IoT and Edge Computing.  My passion is on bridging the theory and the applications in the real world.  If your institute or company are interested in my work, please feel free to drop me an email. 
 
 == Education
 - Ph.D. student in Electrical Engineering, UC Davis, 2019-now (Advisor: [https://faculty.engineering.ucdavis.edu Prof. Junshan Zhang])
@@ -28,6 +28,7 @@ My research interests primarily lie in reinforcement learning and distributed op
 - University Graduate Fellowship, ASU, 2019-2020
 
 == Recent News 
+- Mar-2024: Our work "L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration" is accepted by IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), congrats Imran! 
 - 24-April-2023: Aloha! My work "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by ICML 2023 (Oral). See you in Hawaii!
 - 16-May-2022: I start to work as a graduate intern at [https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html Intel Network Platform Group and Intel AI lab].
 - 28-Sep-2021: My work "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback" is accepted by NeurIPS'21.
