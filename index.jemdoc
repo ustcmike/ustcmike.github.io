@@ -24,22 +24,6 @@ My research interests primarily lie in reinforcement learning, distributed learn
 - Ph.D. student in Electrical Engineering, UC Davis, 2019-now (Advisor: [https://faculty.engineering.ucdavis.edu Prof. Junshan Zhang])
 - B.Eng (Talent Honor) in Automation, [https://en.ustc.edu.cn USTC], 2014-2018
 
-== Selected Publications
-- Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap
--- Hang Wang, Sen Lin, Junshan Zhang
--- ICML 2023 (Oral)
-
-- Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback 
--- Hang Wang, Sen Lin, Junshan Zhang
--- NeurIPS 2021
-
-- [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked
-  Control] 
--- [https://web.ecs.syr.edu/~ffiorett/cfp/OptLearnMAS-21/Wang_261.mp4 Video], [https://generic.wordpress.soton.ac.uk/aamas2021/wp-content/uploads/sites/393/2021/03/poster_AAMAS_HANG-WANG.pdf Poster]
--- Hang Wang, Sen Lin, Hamid Jafarkhani, Junshan Zhang
--- AAMAS 2021 (Extended Abstract) 
-
-
 
 == Award
 - University Graduate Fellowship, ASU, 2019-2020
