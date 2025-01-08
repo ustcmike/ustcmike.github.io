@@ -16,17 +16,46 @@ Email: /whang/ \[@\] ucdavis \[DOT\] edu\n
 ~~~
 
 == About Me
-I'm currently a Ph.D student in Electrical Enigeering at UC Davis. I'm fortunate to be advised by [https://faculty.engineering.ucdavis.edu/jzhang/ Prof. Junshan Zhang].\n
+I'm a final-year Ph.D student in Electrical Engineering at UC Davis. I'm fortunate to be advised by [https://faculty.engineering.ucdavis.edu/jzhang/ Prof. Junshan Zhang]. \n
 
-My research interests primarily lie in reinforcement learning, distributed learning, and foundation model (world model) with applications in Autonomous Driving, IoT and Edge Computing.  My passion is on bridging the theory and the applications in the real world.  If you want to know more about my work, please feel free to drop me an email. 
+My research focuses on developing adaptive embodied AI systems that learn and evolve through direct interaction with the physical world. This vision is pursued through three interconnected research areas: reinforcement learning, multi-agent learning, and foundation models (with particular emphasis on world models). My work spans both theoretical innovations and practical algorithmic implementations, with applications in autonomous driving, robots,  Internet of Things (IoT), and edge computing.
+
+*I am currently seeking academic and research positions. If you would like to learn more about my research, please feel free to contact me.*
+
+
 
 == Education
-- Ph.D. student in Electrical Engineering, UC Davis, 2019-now (Advisor: [https://faculty.engineering.ucdavis.edu Prof. Junshan Zhang])
+- Ph.D. student in Electrical Engineering, UC Davis, 2019-2025 (Advisor: [https://faculty.engineering.ucdavis.edu Prof. Junshan Zhang])
 - B.Eng (Talent Honor) in Automation, [https://en.ustc.edu.cn USTC], 2014-2018
 
 
-== Award
-- University Graduate Fellowship, ASU, 2019-2020
+== Research Experience
+- Research Intern, Bosch Center of Artificial Intelligence, Sunnyvale, California, USA, Jun 2024- Dec 2024
+    -- Project: 1) Foundation model based decision making for autonomous vehicles; 2) Enhancing motion transformer model with diffusion models through knowledge distillation
+    -- Mentor: Dr. Burhaneddin Yaman and Dr. Xin Ye 
+
+
+-  Research Graduate Intern, Intel, Chandler, Arizona, USA, May 2022 - Aug 2022
+    -- Project: RL Aided Applications 
+    -- Mentor: [https://www.linkedin.com/in/darryl-monteilh-11b7242 Darryl Monteilh], [https://www.linkedin.com/in/mshamsa/  Dr. Manu Shamsa], [https://www.intel.com/content/www/us/en/research/researchers/mariano-phielipp.html Dr. Mariano Phielipp (Intel AI Lab)]
+
+-  Research Engineer, Nanyang Technological University, Singapore, Sep 2018 - Sep 2019
+	-- Project: P2P Trading in the Smart-Grid Communication Network (EMA Singapore project) 
+	-- Mentor: [http://www.ntu.edu.sg/home/ygwen/ Prof. Yonggang Wen]
+	
+ - Research Intern, Twente University, Netherlands, July 2017 - Oct 2017
+	-- Project: Data Fusion For Arm Rehabilitation System
+	-- Mentor:  [https://people.utwente.nl/b.j.f.vanbeijnum Prof. ir. B. J. F. van Beijnnum] and [https://www.linkedin.com/in/mrmirfan/ Mohamed Irfan Mohamed Refai]
+
+- Intern, Sensetime, July 2018 - Sep 2018
+  -- Project: Large-scale distributed Optimization
+  -- Mentor: [https://www.linkedin.com/in/sunpengsdu/ Dr. Peng Sun (now with Shanghai AI Lab)]
+
+ - Research Associate, HI Lab, USTC, June 2016 - Nov 2017
+    -- Project: Recommender System for drug sensitivity prediction
+    -- Mentor:  Prof. Ao Li
+
+
 
 == Recent News 
 - May-2024: Our open source platform "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving" [https://arxiv.org/abs/2405.09111 Arxiv] is now available!
@@ -37,6 +66,120 @@ My research interests primarily lie in reinforcement learning, distributed learn
 - 17-Dec-2020: My work [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked Control] is accepted by AAMAS 2021.
 - 27-Oct-2020: Our group's new work [https://arxiv.org/abs/2010.14664 System Identification via Meta-Learning in Linear Time-Varying Environments] is now available!
 - 12-Aug-2019: I’ve arrived at Arizona, the hottest place I’ve ever been before.
+
+
+== Award
+- Ph.D. Candidacy Award, UC Davis, 2024
+- ICML Oral (Top 5\%), 2023
+- University Graduate Fellowship, ASU, 2019-2020
+
+
+== Books
+
+- Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design
+-- Hang Wang, Sen Lin, Junshan Zhang
+-- Morgan $\&$ Claypool Publishers, 2025
+
+
+== Publications
+
+
+- Ego-centric Learning of Communicative World Models for Autonomous Driving
+-- Hang Wang, Dechen Gao, Qiaoyi Fang and Junshan Zhang
+-- Preprint, 2025
+
+- AdaWM: Adaptive World Model based Planning for Autonomous Driving
+-- Hang Wang, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu and Junshan Zhang
+-- Preprint, 2025
+
+
+- World-Model based Hierarchical Planning with Semantic Communications for Autonomous Driving
+-- Dechen Gao, Hang Wang, Shuangyu Cai, Hanchu Zhou, Nejib Ammar, Shatadal Mishra, Iman Soltani and Junshan Zhang
+-- Preprint, 2025
+
+- Towards Unraveling and Improving Generalization in World Models
+-- Qiaoyi Fang, Weiyu Du, Hang Wang and Junshan Zhang
+-- [Arxiv](https://arxiv.org/abs/2501.00195)
+
+
+- Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap
+-- Hang Wang, Sen Lin, Junshan Zhang
+-- ICML 2023 (Oral, Top 5%)
+
+- CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving
+-- Dechen Gao, Shuangyu Cai, Hanchu Zhou, Hang Wang, Iman Soltani, Junshan Zhang
+-- [Arxiv](https://arxiv.org/abs/2405.09111)
+
+
+- Heterogeneous Decision Making towards Mixed Autonomy: When Uncertainty-aware Planning Meets Bounded Rationality
+-- Hang Wang, Qiaoyi Fang and Junshan Zhang
+-- Preprint, 2025
+
+- L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration
+-- Imran Adham, Hang Wang, Sen Lin, Junshan Zhang
+-- IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) 2024
+
+
+- Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback 
+-- Hang Wang, Sen Lin, Junshan Zhang
+-- NeurIPS 2021
+
+- [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked
+  Control] 
+-- [https://web.ecs.syr.edu/~ffiorett/cfp/OptLearnMAS-21/Wang_261.mp4 Video], [https://generic.wordpress.soton.ac.uk/aamas2021/wp-content/uploads/sites/393/2021/03/poster_AAMAS_HANG-WANG.pdf Poster]
+-- Hang Wang, Sen Lin, Hamid Jafarkhani, Junshan Zhang
+-- AAMAS 2021 (Extended Abstract) 
+
+- [https://arxiv.org/abs/2010.14664 System Identification via Meta-Learning in Linear Time-Varying Environments]
+-- Sen Lin, Hang Wang, Junshan Zhang
+-- arXiv:2010.14664, 2020 
+
+
+- [https://ieeexplore.ieee.org/document/8432100 Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity]
+-- *H. Wang*, J. Xi, M. Wang, A. Li.
+-- IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 2018.
+
+- [https://research.utwente.nl/en/publications/measuring-upper-extremity-use-with-one-imu One Inertial Sensor Based Metric for Upper-extremity Measurement ]
+-- *H. Wang*, Mohamed Irfan Mohamed Refai, Bernhard J.F. van Beijnum
+-- 12th International Joint Conference on Biomedical Engineering Systems and Technologies 2019, Prague, Czech Republic.
+
+
+== M.S. Thesis
+- Reinforcement Learning based Control in Networked Systems
+-- Qualifying Exam for Direct PhD student
+
+
+== B.E. Thesis
+-  Graphic Model Based Drug Sensitivity Prediction Research
+-- *H. Wang*
+-- Excellent Graduation Thesis Award, TOP 5%
+
+
+== US Patents
+- Systems and Methods for Enhancing Motion Transformer Model with Diffusion Models through Knowledge Distillation
+-- Hang Wang, Xin Ye, Feng Tao, Abhirup Mallik, Burhaneddin Yaman, Ren Liu
+
+- Systems and Methods for World Model based Planning with Adaptive Finetuning for Autonomous Driving
+-- Hang Wang, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu
+
+- World model based distributed learning for AI Agents
+-- Junshan Zhang, Hang Wang and Dechen Gao
+
+== Professional Service
+- Reviewer of ICML, NeurIPS, ICLR, AAAI, AISTAT, Inforcom, CIKM
+- Reviewer of  IEEE/ACM Transactions on Computational Biology and Bioinformatics
+- Reviewer of IEEE Journal of Biomedical and Health Informatics
+- Reviewer of IEEE Transactions on Signal Processing
+- Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Reviewer of BMC Bioinformatics
+- Tech Consultant for IntuitionLabs, San Jose, CA
+
+
+== Miscellaneous 
+- I've been wielding a violin bow since I was 7, though my neighbors might tell you I took a rather enthusiastic "pandemic revival" of my musical pursuits in 2020!
+- When I'm not training AI models or debugging code, you'll find me advocating for academic workers' rights as an active union member 
+- I proudly served as USTC union director back in college
+- And hey, I also go by Mike since kindergarten (I picked it myself)!
 
 
 <!-- Default Statcounter code for Personal Homepage
