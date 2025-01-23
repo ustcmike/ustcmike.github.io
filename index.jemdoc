@@ -58,9 +58,10 @@ My research focuses on developing adaptive embodied AI systems that learn and ev
 
 
 == Recent News 
+- Jan-2025: My recent work "AdaWM: Adaptive World Model based Planning for Autonomous Driving" is accepted by ICLR 2025! See you in Singapore.
 - May-2024: Our open source platform "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving" [https://arxiv.org/abs/2405.09111 Arxiv] is now available!
 - Mar-2024: Our work "L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration" is accepted by IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), congrats Imran! 
-- 24-April-2023: Aloha! My work "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by ICML 2023 (Oral). See you in Hawaii!
+- 24-April-2023: Aloha! My work "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by ICML 2023 (Oral, top 5\%). See you in Hawaii!
 - 16-May-2022: I start to work as a graduate intern at [https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html Intel Network Platform Group and Intel AI lab].
 - 28-Sep-2021: My work "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback" is accepted by NeurIPS'21.
 - 17-Dec-2020: My work [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked Control] is accepted by AAMAS 2021.
@@ -72,6 +73,7 @@ My research focuses on developing adaptive embodied AI systems that learn and ev
 - Ph.D. Candidacy Award, UC Davis, 2024
 - ICML Oral (Top 5\%), 2023
 - University Graduate Fellowship, ASU, 2019-2020
+- Leadership Fellowship, USTC, 2018
 
 
 == Books
@@ -86,22 +88,24 @@ My research focuses on developing adaptive embodied AI systems that learn and ev
 -- *Hang Wang*, Sen Lin, Junshan Zhang
 -- ICML 2023 (*Oral, Top 5%*), [https://icml.cc/virtual/2023/session/25587 Video]
 
-- Ego-centric Learning of Communicative World Models for Autonomous Driving
--- *Hang Wang*, Dechen Gao, Qiaoyi Fang and Junshan Zhang
--- Preprint, 2025, [https://github.com/ucd-dare/CarDreamer Code]
 
 - AdaWM: Adaptive World Model based Planning for Autonomous Driving
 -- *Hang Wang*, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu and Junshan Zhang
+-- ICLR, 2025, [https://openreview.net/pdf?id=NEu8wgPctU, Pdf], [https://github.com/ucd-dare/CarDreamer Code]
+
+
+- [https://arxiv.org/abs/2501.00195 Towards Unraveling and Improving Generalization in World Models]
+-- Qiaoyi Fang, Weiyu Du, *Hang Wang* and Junshan Zhang
+-- CPAL, 2025
+
+- Ego-centric Learning of Communicative World Models for Autonomous Driving
+-- *Hang Wang*, Dechen Gao, Qiaoyi Fang and Junshan Zhang
 -- Preprint, 2025, [https://github.com/ucd-dare/CarDreamer Code]
 
 
 - World-Model based Hierarchical Planning with Semantic Communications for Autonomous Driving
 -- Dechen Gao, *Hang Wang*, Shuangyu Cai, Hanchu Zhou, Nejib Ammar, Shatadal Mishra, Iman Soltani and Junshan Zhang
 -- Preprint, 2025, [https://github.com/ucd-dare/CarDreamer Code]
-
-- [https://arxiv.org/abs/2501.00195 Towards Unraveling and Improving Generalization in World Models]
--- Qiaoyi Fang, Weiyu Du, *Hang Wang* and Junshan Zhang
--- Arxiv
 
 
 - CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving
@@ -164,7 +168,7 @@ My research focuses on developing adaptive embodied AI systems that learn and ev
 
 == Professional Service
 - Reviewer of ICML, NeurIPS, ICLR, AAAI, AISTAT, Inforcom, CIKM
-- Reviewer of  IEEE/ACM Transactions on Computational Biology and Bioinformatics
+- Reviewer of IEEE/ACM Transactions on Computational Biology and Bioinformatics
 - Reviewer of IEEE Journal of Biomedical and Health Informatics
 - Reviewer of IEEE Transactions on Signal Processing
 - Reviewer of IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
@@ -178,6 +182,7 @@ My research focuses on developing adaptive embodied AI systems that learn and ev
 - I proudly served as USTC union director back in college
 - And hey, I also go by Mike (I picked it myself in kindergarten)!
 
+~~~
 
 <!-- Default Statcounter code for Personal Homepage
 https://ustcmike.github.io/ -->
@@ -197,5 +202,6 @@ alt="Web Analytics"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
 
+~~~
 
 

@@ -2,13 +2,38 @@
 =Publication(Graduate) 
 
 == Articles
+
+- AdaWM: Adaptive World Model based Planning for Autonomous Driving
+-- Hang Wang, Xin Ye, Feng Tao, Abhirup Mallik, Burhaneddin Yaman, Ren Liu and Junshan Zhang
+-- ICLR, 2025, [Arxiv](https://openreview.net/pdf?id=NEu8wgPctU)
+
+- Towards Unraveling and Improving Generalization in World Models
+-- Qiaoyi Fang, Weiyu Du, Hang Wang and Junshan Zhang
+-- CPAL, 2025, [Arxiv](https://arxiv.org/abs/2501.00195)
+
+
+- Ego-centric Learning of Communicative World Models for Autonomous Driving
+-- Hang Wang, Dechen Gao, Qiaoyi Fang and Junshan Zhang
+-- Preprint, 2025
+
+
+- World-Model based Hierarchical Planning with Semantic Communications for Autonomous Driving
+-- Dechen Gao, Hang Wang, Shuangyu Cai, Hanchu Zhou, Nejib Ammar, Shatadal Mishra, Iman Soltani and Junshan Zhang
+-- Preprint, 2025
+
+
 - Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap
 -- Hang Wang, Sen Lin, Junshan Zhang
--- ICML 2023 (Oral)
+-- ICML 2023 (Oral, Top 5%)
 
 - CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving
 -- Dechen Gao, Shuangyu Cai, Hanchu Zhou, Hang Wang, Iman Soltani, Junshan Zhang
 -- [Arxiv](https://arxiv.org/abs/2405.09111)
+
+
+- Heterogeneous Decision Making towards Mixed Autonomy: When Uncertainty-aware Planning Meets Bounded Rationality
+-- Hang Wang, Qiaoyi Fang and Junshan Zhang
+-- Preprint, 2025
 
 - L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration
 -- Imran Adham, Hang Wang, Sen Lin, Junshan Zhang
