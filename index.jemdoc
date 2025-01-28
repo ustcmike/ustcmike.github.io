@@ -18,7 +18,13 @@ Email: /whang/ \[@\] ucdavis \[DOT\] edu\n
 == About Me
 I'm a final-year Ph.D student in Electrical Engineering at UC Davis. I'm fortunate to be advised by [https://faculty.engineering.ucdavis.edu/jzhang/ Prof. Junshan Zhang]. \n
 
-My research focuses on developing adaptive embodied AI systems that learn and evolve through direct interaction with the physical world. This vision is pursued through three interconnected research areas: reinforcement learning, multi-agent learning, and foundation models (with particular emphasis on world models). My work spans both theoretical innovations and practical algorithmic implementations, with applications in autonomous driving, robots,  Internet of Things (IoT), and edge computing.
+My research focuses on developing adaptive embodied AI systems that learn and evolve through direct interaction with the physical world. This vision is pursued through three interconnected research areas:
+
+ - Reinforcement learning, 
+ - Multi-agent (distributed) learning, and 
+ - foundation models (with particular emphasis on world models). 
+
+ My work spans both theoretical innovations and practical algorithmic implementations, with applications in *autonomous driving*, *robots*,  Internet of Things (IoT), and edge computing.
 
 *I am currently seeking academic and research positions. If you would like to learn more about my research, please feel free to contact me.*
 
@@ -31,12 +37,12 @@ My research focuses on developing adaptive embodied AI systems that learn and ev
 
 == Research Experience
 - Research Intern, Bosch Center of Artificial Intelligence, Sunnyvale, California, USA, Jun 2024- Dec 2024
-    -- Project: 1) Foundation model based decision making for autonomous vehicles; 2) Enhancing motion transformer model with diffusion models through knowledge distillation
+    -- Project: 1) Foundation model based Reinforcement Learning for autonomous vehicles; 2) Enhancing motion transformer model with diffusion models through knowledge distillation
     -- Mentor: Dr. Burhaneddin Yaman and Dr. Xin Ye 
 
 
 -  Research Graduate Intern, Intel, Chandler, Arizona, USA, May 2022 - Aug 2022
-    -- Project: RL Aided Applications 
+    -- Project: Reinforcement Learning Aided Chip Manufacture 
     -- Mentor: [https://www.linkedin.com/in/darryl-monteilh-11b7242 Darryl Monteilh], [https://www.linkedin.com/in/mshamsa/  Dr. Manu Shamsa], [https://www.intel.com/content/www/us/en/research/researchers/mariano-phielipp.html Dr. Mariano Phielipp (Intel AI Lab)]
 
 -  Research Engineer, Nanyang Technological University, Singapore, Sep 2018 - Sep 2019
