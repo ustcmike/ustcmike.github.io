@@ -20,11 +20,11 @@ I'm a final-year Ph.D student in Electrical Engineering at UC Davis. I'm fortuna
 
 My research focuses on developing adaptive embodied AI systems that learn and evolve through direct interaction with the physical world. This vision is pursued through three interconnected research areas:
 
- - Reinforcement learning, 
+ - Warm-start Reinforcement learning and Post-training Finetuning, 
  - Multi-agent (distributed) learning, and 
- - foundation models (with particular emphasis on world models). 
+ - Foundation models (with particular emphasis on world models). 
 
- My work spans both theoretical innovations and practical algorithmic implementations, with applications in *autonomous driving*, *robots*,  Internet of Things (IoT), and edge computing.
+ My work spans both theoretical innovations and practical algorithmic implementations, with applications in *autonomous driving*, *robots*,  Internet of Things (IoT), and edge computing. I enjoy the interdisciplinary research, such as the use of RL in material science, smart grid and biomedical fields.
 
 *I am currently seeking academic and research positions. If you would like to learn more about my research, please feel free to contact me.*
 
@@ -37,7 +37,7 @@ My research focuses on developing adaptive embodied AI systems that learn and ev
 
 == Research Experience
 - Research Intern, Bosch Center of Artificial Intelligence, Sunnyvale, California, USA, Jun 2024- Dec 2024
-    -- Project: 1) Foundation model based Reinforcement Learning for autonomous vehicles; 2) Enhancing motion transformer model with diffusion models through knowledge distillation
+    -- Project: 1) Adaptive Foundation model through Reinforcement Learning Finetuning for autonomous vehicles; 2) Enhancing motion transformer model with diffusion models through knowledge distillation
     -- Mentor: Dr. Burhaneddin Yaman and Dr. Xin Ye 
 
 
@@ -64,10 +64,11 @@ My research focuses on developing adaptive embodied AI systems that learn and ev
 
 
 == Recent News 
-- Jan-2025: My recent work "AdaWM: Adaptive World Model based Planning for Autonomous Driving" is accepted by ICLR 2025! See you in Singapore.
+- Jan-2025: Our *Book* "Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design" will be available to purchase in June 2025 at [https://link.springer.com/book/9783031843624 Springer.com]! 
+- Jan-2025: My recent work "AdaWM: Adaptive World Model based Planning for Autonomous Driving" is accepted by *ICLR 2025*! See you in Singapore.
 - May-2024: Our open source platform "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving" [https://arxiv.org/abs/2405.09111 Arxiv] is now available!
 - Mar-2024: Our work "L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration" is accepted by IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), congrats Imran! 
-- 24-April-2023: Aloha! My work "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by ICML 2023 (Oral, top 5\%). See you in Hawaii!
+- 24-April-2023: Aloha! My work "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by ICML 2023 (*Oral, top 5\%*). See you in Hawaii!
 - 16-May-2022: I start to work as a graduate intern at [https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html Intel Network Platform Group and Intel AI lab].
 - 28-Sep-2021: My work "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback" is accepted by NeurIPS'21.
 - 17-Dec-2020: My work [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked Control] is accepted by AAMAS 2021.
