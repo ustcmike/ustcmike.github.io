@@ -20,13 +20,13 @@ Email: /whang/ \[@\] ucdavis \[DOT\] edu\n
 == About Me
 I'm a final-year Ph.D student in Electrical Engineering at UC Davis. I'm fortunate to be advised by [https://faculty.engineering.ucdavis.edu/jzhang/ Prof. Junshan Zhang]. \n
 
-My research focuses on developing adaptive embodied AI agents that learn and continually evolve through direct interaction with the physical world. This vision is pursued through three interconnected research areas:
+My research focuses on developing adaptive embodied AI agents that learn and continually evolve through direct interaction with the physical world (e.g. human feedback). This vision is pursued through three interconnected research areas:
 
- - *Warm-start Reinforcement learning and Post-training Finetuning*, 
- - *Multi-agent learning (distributed optimization)*, and 
+ - *Warm-start Reinforcement Learning and Self-supervised Post-training*, 
+ - *Multi-agent Reinforcement Learning (distributed optimization)*, and 
  - *Foundation models (with particular emphasis on world models)*. 
 
- My work spans both theoretical innovations and practical algorithmic implementations, with applications in autonomous driving, robots,  Internet of Things (IoT), and edge computing. I enjoy the interdisciplinary research, such as the use of RL in material science (with [https://ece.ucdavis.edu/directory/jeremy-munday Prof. Munday]), smart grid and biomedical fields. 
+ My work spans both *theoretical innovations* and *practical algorithmic* implementations, with applications in autonomous driving, robots,  Internet of Things (IoT), and edge computing. I enjoy the interdisciplinary research, such as the use of RL in optical physics (with [https://ece.ucdavis.edu/directory/jeremy-munday Prof. Munday]), smart grid and biomedical fields. 
 
 *I am currently seeking academic and research positions. If you would like to learn more about my research, please feel free to contact me.*
 
@@ -95,19 +95,35 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 
 
 == Publications
+
+=== RL Theory (e.g., Warm-start Reinforcement Learning)
+
 - Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap
 -- *Hang Wang*, Sen Lin, Junshan Zhang
 -- ICML 2023 (*Oral, Top 5%*), [https://icml.cc/virtual/2023/session/25587 Video]
 
 
-- AdaWM: Adaptive World Model based Planning for Autonomous Driving
--- *Hang Wang*, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu and Junshan Zhang
--- ICLR, 2025, [https://openreview.net/pdf?id=NEu8wgPctU, Pdf], [https://github.com/ucd-dare/CarDreamer Code]
+- Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback 
+-- *Hang Wang*, Sen Lin, Junshan Zhang
+-- NeurIPS 2021, [https://github.com/ustcmike/AdaEQ_NeurIPS21 Code]
 
+- Heterogeneous Decision Making: When Uncertainty-aware Planning Meets Bounded Rationality
+-- *Hang Wang*, Qiaoyi Fang and Junshan Zhang
+-- Preprint, 2025
 
 - [https://arxiv.org/abs/2501.00195 Towards Unraveling and Improving Generalization in World Models]
 -- Qiaoyi Fang, Weiyu Du, *Hang Wang* and Junshan Zhang
 -- CPAL, 2025
+
+- [https://arxiv.org/abs/2010.14664 System Identification via Meta-Learning in Linear Time-Varying Environments]
+-- Sen Lin, *Hang Wang*, Junshan Zhang
+-- arXiv:2010.14664, 2020 
+
+=== Foundation Models and Self-supervised Finetuning
+
+- AdaWM: Adaptive World Model based Planning for Autonomous Driving
+-- *Hang Wang*, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu and Junshan Zhang
+-- ICLR, 2025, [https://openreview.net/pdf?id=NEu8wgPctU, Pdf], [https://github.com/ucd-dare/CarDreamer Code]
 
 - Ego-centric Learning of Communicative World Models for Autonomous Driving
 -- *Hang Wang*, Dechen Gao, Qiaoyi Fang and Junshan Zhang
@@ -124,18 +140,15 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 -- [https://arxiv.org/abs/2405.09111, IEEE IoT], [https://github.com/ucd-dare/CarDreamer Code]
 
 
-- Heterogeneous Decision Making towards Mixed Autonomy: When Uncertainty-aware Planning Meets Bounded Rationality
--- *Hang Wang*, Qiaoyi Fang and Junshan Zhang
--- Preprint, 2025
-
 - L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration
 -- Imran Adham, *Hang Wang*, Sen Lin, Junshan Zhang
 -- IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) 2024
 
+=== Multi-agent RL
 
-- Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback 
--- *Hang Wang*, Sen Lin, Junshan Zhang
--- NeurIPS 2021, [https://github.com/ustcmike/AdaEQ_NeurIPS21 Code]
+- Ego-centric Learning of Communicative World Models for Autonomous Driving
+-- *Hang Wang*, Dechen Gao, Qiaoyi Fang and Junshan Zhang
+-- Preprint, 2025, [https://github.com/ucd-dare/CarDreamer Code]
 
 - [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked
   Control] 
@@ -143,10 +156,13 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 -- *Hang Wang*, Sen Lin, Hamid Jafarkhani, Junshan Zhang
 -- AAMAS 2021 (Extended Abstract) 
 
-- [https://arxiv.org/abs/2010.14664 System Identification via Meta-Learning in Linear Time-Varying Environments]
--- Sen Lin, *Hang Wang*, Junshan Zhang
--- arXiv:2010.14664, 2020 
 
+=== Interdisciplinary Research
+
+
+- Reinforcement Learning based Optical Material Composition Design
+-- Paulina Escobar Diaz, *Hang Wang*, Junshan Zhang, Jeremy Munday
+-- Ongoing Project
 
 - [https://ieeexplore.ieee.org/document/8432100 Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity]
 -- *H. Wang*, J. Xi, M. Wang, A. Li.
