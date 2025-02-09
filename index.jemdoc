@@ -33,7 +33,7 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 
 
 == Education
-- Ph.D. student in Electrical Engineering, UC Davis, 2019-2025 (Advisor: [https://faculty.engineering.ucdavis.edu Prof. Junshan Zhang])
+- Ph.D. student in Electrical Engineering, UC Davis, 2019-2025 (Advisor: [https://faculty.engineering.ucdavis.edu Prof. Junshan Zhang], Co-advisor: [https://yubeichen.com Prof. Yubei Chen])
 - B.Eng (Talent Honor) in Automation, [https://en.ustc.edu.cn USTC], 2014-2018
 
 
@@ -88,21 +88,21 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 
 == Books
 
-- Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design
+-  [https://link.springer.com/book/9783031843624 Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design]
 -- Hang Wang, Sen Lin, Junshan Zhang
--- Morgan $\&$ Claypool Publishers, 2025
+-- Morgan & Claypool Publishers, 2025
 
 
 == Publications
 
 === RL Theory (e.g., Warm-start Reinforcement Learning)
 
-- Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap
+- [https://arxiv.org/abs/2306.11271 Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap]
 -- *Hang Wang*, Sen Lin, Junshan Zhang
 -- ICML 2023 (*Oral, Top 5%*), [https://icml.cc/virtual/2023/session/25587 Video]
 
 
-- Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback 
+- [https://proceedings.neurips.cc/paper/2021/hash/cfa45151ccad6bf11ea146ed563f2119-Abstract.html Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback] 
 -- *Hang Wang*, Sen Lin, Junshan Zhang
 -- NeurIPS 2021, [https://github.com/ustcmike/AdaEQ_NeurIPS21 Code]
 
@@ -120,7 +120,7 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 
 === Foundation Models and Self-supervised Finetuning
 
-- AdaWM: Adaptive World Model based Planning for Autonomous Driving
+- [https://arxiv.org/abs/2501.13072 AdaWM: Adaptive World Model based Planning for Autonomous Driving]
 -- *Hang Wang*, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu and Junshan Zhang
 -- ICLR, 2025, [https://openreview.net/pdf?id=NEu8wgPctU, Pdf], [https://github.com/ucd-dare/CarDreamer Code]
 
@@ -134,12 +134,12 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 -- Preprint, 2025, [https://github.com/ucd-dare/CarDreamer Code]
 
 
-- CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving
+- [https://arxiv.org/abs/2405.09111 CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving]
 -- Dechen Gao, Shuangyu Cai, Hanchu Zhou, *Hang Wang*, Iman Soltani, Junshan Zhang
--- [https://arxiv.org/abs/2405.09111, IEEE IoT], [https://github.com/ucd-dare/CarDreamer Code]
+-- IEEE IoT, [https://github.com/ucd-dare/CarDreamer Code]
 
 
-- L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration
+- [https://www.computer.org/csdl/proceedings-article/most/2024/077300a178/1Z05I7GZpdu L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration]
 -- Imran Adham, *Hang Wang*, Sen Lin, Junshan Zhang
 -- IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) 2024
 
