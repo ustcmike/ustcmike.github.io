@@ -67,7 +67,8 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 
 
 == Recent News 
-- Jan-2025: Our *Book* "*Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design*" will be available to purchase in June 2025 at [https://link.springer.com/book/9783031843624 Springer.com]! 
+- Feb-2025: Our *Book* "*Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design*" will be available to purchase in June 2025 at [https://link.springer.com/book/9783031843624 Springer.com]! 
+- Feb-2025: Our paper on decision making in Human-AI interaction (agentic AI) "Heterogeneous Decision Making: When Uncertainty-aware Planning Meets Bounded Rationality" is accepted by CPAL! See you at Stanford in March!
 - Jan-2025: My recent work "AdaWM: Adaptive World Model based Planning for Autonomous Driving" is accepted by *ICLR 2025*! See you in Singapore.
 - May-2024: Our open source platform "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving" [https://arxiv.org/abs/2405.09111 Arxiv] is now available!
 - Mar-2024: Our work "L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration" is accepted by IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), congrats Imran! 
@@ -106,9 +107,9 @@ My research focuses on developing adaptive embodied AI agents that learn and con
 -- *Hang Wang*, Sen Lin, Junshan Zhang
 -- NeurIPS 2021, [https://github.com/ustcmike/AdaEQ_NeurIPS21 Code]
 
-- Heterogeneous Decision Making: When Uncertainty-aware Planning Meets Bounded Rationality
+- [https://openreview.net/forum?id=pxg38Rw63r#discussion Heterogeneous Decision Making: When Uncertainty-aware Planning Meets Bounded Rationality]
 -- *Hang Wang*, Qiaoyi Fang and Junshan Zhang
--- Preprint, 2025
+--  Conference on Parsimony and Learning (CPAL), Stanford, 2025
 
 - [https://arxiv.org/abs/2501.00195 Towards Unraveling and Improving Generalization in World Models]
 -- Qiaoyi Fang, Weiyu Du, *Hang Wang* and Junshan Zhang
