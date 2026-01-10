@@ -247,12 +247,12 @@ div.blocktitle {
 }
 
 div.blockcontent {
-	border: 1px solid silver;
+	border: none;
 	padding: 0.3em 0.5em;
 }
 
 div.infoblock > div.blockcontent {
-	background: #ffffee;
+	background: transparent;
 }
 
 div.blockcontent p + ul, div.blockcontent p + ol {
