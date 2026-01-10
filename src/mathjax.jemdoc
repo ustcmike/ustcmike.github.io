@@ -45,6 +45,6 @@ You can also type inline equations as $A x = b$.  Referencing equations is done 
 
 
 
-#includeraw{statcounter.html}
+#includeraw{scripts/statcounter.html}
 
 
