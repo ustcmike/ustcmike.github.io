@@ -63,18 +63,11 @@ My research focuses on developing *AI agents* that learn and continually evolve 
 
 
 == Recent News 
-- July-2025: I'm joining Microsoft as a Researcher in Redmond, WA!
+- {{<span style="color:red">\[New\]</span>}} July-2025: I'm joining Microsoft as a Researcher in Redmond, WA!
 - Feb-2025: Our *Book* "*Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design*" will be available to purchase in June 2025 at [https://link.springer.com/book/9783031843624 Springer.com]! 
 - Feb-2025: Our paper on decision making in Human-AI interaction (agentic AI) "Heterogeneous Decision Making: When Uncertainty-aware Planning Meets Bounded Rationality" is accepted by CPAL! See you at Stanford in March!
 - Jan-2025: My recent work "AdaWM: Adaptive World Model based Planning for Autonomous Driving" is accepted by *ICLR 2025*! See you in Singapore.
 - May-2024: Our open source platform "CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving" [https://arxiv.org/abs/2405.09111 Arxiv] is now available!
-- Mar-2024: Our work "L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration" is accepted by IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST), congrats Imran! 
-- 24-April-2023: Aloha! My work "Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap" is accepted by *ICML 2023* (*Oral, top 5\%*). See you in Hawaii!
-- 16-May-2022: I start to work as a graduate intern at [https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html Intel Network Platform Group and Intel AI lab].
-- 28-Sep-2021: My work "Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback" is accepted by *NeurIPS 2022*.
-- 17-Dec-2020: My work [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked Control] is accepted by *AAMAS 2021*.
-- 27-Oct-2020: Our group's new work [https://arxiv.org/abs/2010.14664 System Identification via Meta-Learning in Linear Time-Varying Environments] is now available!
-
 
 
 == Award

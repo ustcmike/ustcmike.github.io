@@ -1,1 +1,0 @@
-./jemdoc -c mysite.conf index.jemdoc
