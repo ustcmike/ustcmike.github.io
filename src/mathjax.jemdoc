@@ -44,3 +44,7 @@ Instead, you can use LaTeX's +align+ (not +aligned+) block to number the individ
 You can also type inline equations as $A x = b$.  Referencing equations is done as Eqs.~$\eqref{eq:E}$ and $\eqref{eq:H}$.
 
 
+
+#includeraw{statcounter.html}
+
+
