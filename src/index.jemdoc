@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}  
-= Mike Hang Wang's Homepage 
+= Mike H. Wang's Homepage 
 {{<link rel="icon" href="photo/profile.jpg" />}}
 ~~~
 {}{img_left}{photos/profile2025.jpg}{alt text}{222}{195}{}
@@ -30,7 +30,7 @@ My research focuses on developing *AI agents* that learn and continually evolve 
 
 == Education
 - Ph.D., Electrical Engineering, UC Davis, 2019-2025 (Advisor: Prof. Junshan Zhang, Co-advisor: Prof. Yubei Chen)
-- B.Eng (Talent Honor) in Automation, [https://en.ustc.edu.cn USTC], 2014-2018
+- B.Eng (Talent Honor) in Automation, USTC, 2014-2018
 
 
 
@@ -80,7 +80,7 @@ My research focuses on developing *AI agents* that learn and continually evolve 
 == Books
 
 -  [https://link.springer.com/book/9783031843624 Continual and Reinforcement Learning for Edge AI: Framework, Foundation, and Algorithm Design]
--- Hang Wang, Sen Lin, Junshan Zhang
+-- Mike H. Wang, Sen Lin, Junshan Zhang
 -- Morgan & Claypool Publishers, 2025
 
 
@@ -90,76 +90,76 @@ My research focuses on developing *AI agents* that learn and continually evolve 
 === RL Theory (e.g., Warm-start Reinforcement Learning)
 
 - [https://arxiv.org/abs/2306.11271 Warm-Start Actor-Critic: From Approximation Error to Sub-optimality Gap]
--- *Hang Wang*, Sen Lin, Junshan Zhang
+-- *Mike H. Wang*, Sen Lin, Junshan Zhang
 -- ICML 2023 (*Oral, Top 5%*), [https://icml.cc/virtual/2023/session/25587 Video]
 
 
 - [https://proceedings.neurips.cc/paper/2021/hash/cfa45151ccad6bf11ea146ed563f2119-Abstract.html Adaptive Ensemble Q-learning: Minimizing Estimation Bias via Error Feedback] 
--- *Hang Wang*, Sen Lin, Junshan Zhang
+-- *Mike H. Wang*, Sen Lin, Junshan Zhang
 -- NeurIPS 2021, [https://github.com/ustcmike/AdaEQ_NeurIPS21 Code]
 
 - [https://openreview.net/forum?id=pxg38Rw63r Heterogeneous Decision Making: When Uncertainty-aware Planning Meets Bounded Rationality]
--- *Hang Wang*, Qiaoyi Fang and Junshan Zhang
+-- *Mike H. Wang*, Qiaoyi Fang and Junshan Zhang
 --  Conference on Parsimony and Learning (CPAL), Stanford, 2025
 
 - [https://arxiv.org/abs/2501.00195 Towards Unraveling and Improving Generalization in World Models]
--- Qiaoyi Fang, Weiyu Du, *Hang Wang* and Junshan Zhang
+-- Qiaoyi Fang, Weiyu Du, *Mike H. Wang* and Junshan Zhang
 -- CPAL, 2025
 
 - [https://arxiv.org/abs/2010.14664 System Identification via Meta-Learning in Linear Time-Varying Environments]
--- Sen Lin, *Hang Wang*, Junshan Zhang
+-- Sen Lin, *Mike H. Wang*, Junshan Zhang
 -- arXiv:2010.14664, 2020 
 
 === Foundation Models and Self-supervised Finetuning
 
 - [https://arxiv.org/abs/2501.13072 AdaWM: Adaptive World Model based Planning for Autonomous Driving]
--- *Hang Wang*, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu and Junshan Zhang
+-- *Mike H. Wang*, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu and Junshan Zhang
 -- ICLR, 2025, [https://openreview.net/pdf?id=NEu8wgPctU, Pdf], [https://github.com/ucd-dare/CarDreamer Code]
 
 - Ego-centric Learning of Communicative World Models for Autonomous Driving
--- *Hang Wang*, Dechen Gao, Qiaoyi Fang and Junshan Zhang
+-- *Mike H. Wang*, Dechen Gao, Qiaoyi Fang and Junshan Zhang
 -- Preprint, 2025, [https://github.com/ucd-dare/CarDreamer Code]
 
 
 - World-Model based Hierarchical Planning with Semantic Communications for Autonomous Driving
--- Dechen Gao, *Hang Wang*, Shuangyu Cai, Hanchu Zhou, Nejib Ammar, Shatadal Mishra, Iman Soltani and Junshan Zhang
+-- Dechen Gao, *Mike H. Wang*, Shuangyu Cai, Hanchu Zhou, Nejib Ammar, Shatadal Mishra, Iman Soltani and Junshan Zhang
 -- Preprint, 2025, [https://github.com/ucd-dare/CarDreamer Code]
 
 
 - [https://arxiv.org/abs/2405.09111 CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving]
--- Dechen Gao, Shuangyu Cai, Hanchu Zhou, *Hang Wang*, Iman Soltani, Junshan Zhang
+-- Dechen Gao, Shuangyu Cai, Hanchu Zhou, *Mike H. Wang*, Iman Soltani, Junshan Zhang
 -- IEEE IoT, [https://github.com/ucd-dare/CarDreamer Code]
 
 
 - [https://www.computer.org/csdl/proceedings-article/most/2024/077300a178/1Z05I7GZpdu L-MBOP-E: Latent-Model Based Offline Planning with Extrinsic Policy Guided Exploration]
--- Imran Adham, *Hang Wang*, Sen Lin, Junshan Zhang
+-- Imran Adham, *Mike H. Wang*, Sen Lin, Junshan Zhang
 -- IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST) 2024
 
 === Multi-agent RL
 
 - Ego-centric Learning of Communicative World Models for Autonomous Driving
--- *Hang Wang*, Dechen Gao, Qiaoyi Fang and Junshan Zhang
+-- *Mike H. Wang*, Dechen Gao, Qiaoyi Fang and Junshan Zhang
 -- Preprint, 2025, [https://github.com/ucd-dare/CarDreamer Code]
 
 - [http://arxiv.org/abs/2012.12383 Distributed Q-Learning with State Tracking for Multi-agent Networked
   Control] 
 -- [https://web.ecs.syr.edu/~ffiorett/cfp/OptLearnMAS-21/Wang_261.mp4 Video], [https://generic.wordpress.soton.ac.uk/aamas2021/wp-content/uploads/sites/393/2021/03/poster_AAMAS_HANG-WANG.pdf Poster]
--- *Hang Wang*, Sen Lin, Hamid Jafarkhani, Junshan Zhang
+-- *Mike H. Wang*, Sen Lin, Hamid Jafarkhani, Junshan Zhang
 -- AAMAS 2021 (Extended Abstract) 
 
 
 === Interdisciplinary Research
 
 - [https://pubs.acs.org/doi/abs/10.1021/acsami.5c17466 Reinforcement Learning Approach to High-Efficiency Thermophotovoltaic Filter Design]
--- Paulina Escobar Diaz, *Hang Wang*, Junshan Zhang, Jeremy Munday
+-- Paulina Escobar Diaz, *Mike H. Wang*, Junshan Zhang, Jeremy Munday
 -- ACS Applied Materials & Interfaces (2025).
 
 - [https://ieeexplore.ieee.org/document/8432100 Dual-layer Strengthened Collaborative Topic Regression Modeling for Predicting Drug Sensitivity]
--- *H. Wang*, J. Xi, M. Wang, A. Li.
+-- *M. H. Wang*, J. Xi, M. Wang, A. Li.
 -- IEEE/ACM Transactions on Computational Biology and Bioinformatics(TCBB), 2018.
 
 - [https://research.utwente.nl/en/publications/measuring-upper-extremity-use-with-one-imu One Inertial Sensor Based Metric for Upper-extremity Measurement ]
--- *H. Wang*, Mohamed Irfan Mohamed Refai, Bernhard J.F. van Beijnum
+-- *M. H. Wang*, Mohamed Irfan Mohamed Refai, Bernhard J.F. van Beijnum
 -- 12th International Joint Conference on Biomedical Engineering Systems and Technologies 2019, Prague, Czech Republic.
 
 
@@ -175,13 +175,13 @@ My research focuses on developing *AI agents* that learn and continually evolve 
 
 == US Patents
 - Systems and Methods for Enhancing Motion Transformer Model with Diffusion Models through Knowledge Distillation
--- Hang Wang, Xin Ye, Feng Tao, Abhirup Mallik, Burhaneddin Yaman, Ren Liu
+-- Mike H. Wang, Xin Ye, Feng Tao, Abhirup Mallik, Burhaneddin Yaman, Ren Liu
 
 - Systems and Methods for World Model based Planning with Adaptive Finetuning for Autonomous Driving
--- Hang Wang, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu
+-- Mike H. Wang, Xin Ye, Feng Tao, Chenbin Pan, Abhirup Mallik, Burhaneddin Yaman, Ren Liu
 
 - World model based distributed learning for AI Agents
--- Junshan Zhang, Hang Wang and Dechen Gao
+-- Junshan Zhang, Mike H. Wang and Dechen Gao
 
 == Professional Service
 - Reviewer of ICML, NeurIPS, ICLR, AAAI, AISTAT, Inforcom, CIKM
